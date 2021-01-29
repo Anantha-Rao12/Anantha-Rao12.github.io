@@ -34,7 +34,7 @@ redirect_from:
     - [Mimamsa IISER Pune](http://mimamsa.iiserpune.ac.in/) (Center Coordinator [2020]) : Responsible for smooth functioning of the Nationwide quiz competition in the state of Goa
     - [Karavaan 2019](https://www.karavaan.org/) : Research and Analysis Coordinator
     - [IISER Pune Quiz Club](https://sites.google.com/sac.iiserpune.ac.in/quiz/our-team) (2019) : Part-time Quiz Master
-    - [Disha](https://iiserpunedisha.wordpress.com/) Spread the Smile Volunteer : Science Education and Demonstration for Village students
+    - [Disha](https://iiserpunedisha.wordpress.com/) Spread the Smile Volunteer (2018-19): Science Education and Demonstration for Village students
 
 - ## MOOC Certifications
 
