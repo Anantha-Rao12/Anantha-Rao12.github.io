@@ -45,28 +45,27 @@ redirect_from:
 
   ### Quantum Information and Complex systems Lab with Prof MS Santhanam [February '21 - Present]       
     
-    - Currently working under [Prof MS Santhanam](http://www.iiserpune.ac.in/~santh/) at IISER Pune on developing a Quantum Machine Learning algorithm to compute Out-of-Time-order correlators that are useful in Quantum Information Processing and to study localization in chaotic quantum systems. 
+    - Currently working with [Prof MS Santhanam](http://www.iiserpune.ac.in/~santh/) at IISER Pune on developing a Quantum Machine Learning algorithm to compute Out-of-Time-order correlators that are useful in Quantum Information Processing and to study localization in chaotic quantum systems. 
 
 - ## iGEM IISER Pune 
 
   ### Software and Modelling Team Leader [April '20 - Nov '20]
         
+  - Under Prof Sanjeev Galande, I led the dry-lab/computational modelling team of IISER Pune at the International Genetically Engineered Machine (iGEM) 2020, a synthetic biology competition that takes place in Boston every year. We worked on two major sub-projects :
+    - PACMal (Peptides Against Cerebral Malaria)
+      - Used techniques from Bioinformatics, biophysics and computational biology to design peptide inhibitors against falciparum Cerebral Malaria, a deadly form of Malaria with very high mortality rate. I wrote programs in Bash, Python and performed Molecular Dynamics simulations on Parambrahma - the supercomputer at IISER Pune.
+    - DeleMa-Detect (Deep Learning for Malaria Detection)
+      - Worked on developing and deploying an end-to-end deep learning solution for Malaria diagnosis using Transfer Learning. After extensive Hyperparameter tuning, we achieved an accuracy of about 96%.
+   - The team won the Gold Medal and was also awarded the iGEMER's award, the jury's award for best project.  
+    - More information can be found on the team's [official wiki](https://2020.igem.org/Team:IISER-Pune-India) and articles in newspapers can be found ([TOI](https://timesofindia.indiatimes.com/home/education/news/iiser-pune-team-wins-gold-at-the-igem-2020-synthetic-biology-competition/articleshow/79373704.cms), [IISER News](https://www.iiserpune.ac.in/news/iiser-pune-team-wins-gold-at-igem-2020-synthetic-biology-competition) and [Indian Express](https://indianexpress.com/article/cities/pune/14-researchers-from-iiser-pune-win-gold-medal-at-igem-7064314/)). The code I wrote can be found here ([PacMal](https://github.com/Anantha-Rao12/Peptides-against-Cerebral-Malaria)) ([DeleMa-detect](https://github.com/Anantha-Rao12/DeleMa-detect))
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+- ## Student Intern,   
+
+  ### Theoretical Neuroscience Lab, IISER Pune (Dec '19 - Feb '20)
+
+  - Under [Dr.Collins Assisi](http://www.iiserpune.ac.in/~collins/), I worked on on developing a biologically realistic model of Grid cells found in mammalian entorhinal cortex based on Continuous Attractor Network Dynamics using Python3.0 and TensorFlow2.0 . The project was interdisciplinary and required knowledge from disciplines of neuroscience, non-linear dynamics, differential equations and numerical computation.
+
         
         
         
