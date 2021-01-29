@@ -15,6 +15,6 @@ redirect_from:
 
 # Career Highlights
 
-- IGEM IISER Pune Software and Modeling Team Leader
-- KVPY Research Scholar recognized by the Government of India
+- IGEM IISER Pune Software and Modeling Team Leader (2020)
+- KVPY Research Scholar recognized by the Government of India (2018-2023)
 
