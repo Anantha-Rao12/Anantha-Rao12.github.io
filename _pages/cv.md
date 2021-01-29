@@ -20,9 +20,17 @@ redirect_from:
     - **Specialization** : Classical Mechanics, Quantum Mechanics I, Electrodynamics, Optics, Linear Algebra, Calculus I-III, Basic structures in Mathematics, Physics Lab I-III
     - Current Semester : Statistical Mechanics I, Quantum Information, Nonlinear Dynamics, Quantum Mechanics II, Graph Theory, Data Science
 
-  - **Activities and Societies**: [iGEM Club IISER Pune](https://sites.google.com/sac.iiserpune.ac.in/igem-iiserp) (Co-Leader)  [IISER Pune Quiz Club](https://sites.google.com/sac.iiserpune.ac.in/quiz/our-team) (Part-time Quiz Master [2020]), [Karavaan IISER Pune](https://www.karavaan.org/) (Research and Analysis Co-ordinator [2019] , Director of Corporate Relations [2020]), [Mimamsa IISER Pune](http://mimamsa.iiserpune.ac.in/) (Center Coordinator [2020])
+  - **Extracurricular Positions**:
+    - [iGEM Club IISER Pune](https://sites.google.com/sac.iiserpune.ac.in/igem-iiserp) (2020) : Co-Leader and Leader of Modeling Team 
+    - [Karavaan 2020](https://www.karavaan.org/) : Director of Corporate Relations 
+    - [Mimamsa IISER Pune](http://mimamsa.iiserpune.ac.in/) (Center Coordinator [2020]) : Responsible for smooth functioning of the Nationwide quiz competition in the state of Goa
+    - [Karavaan 2019](https://www.karavaan.org/) : Research and Analysis Coordinator
+    - [IISER Pune Quiz Club](https://sites.google.com/sac.iiserpune.ac.in/quiz/our-team) (2019) : Part-time Quiz Master
+    - [Disha](https://iiserpunedisha.wordpress.com/) Spread the Smile Volunteer : Science Education and Demonstration for Village students
 
 - ## MOOC Certifications
+
+  - 
 
 
 ## Work experience
