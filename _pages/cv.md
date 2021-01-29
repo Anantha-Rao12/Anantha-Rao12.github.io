@@ -30,21 +30,21 @@ redirect_from:
 
 - ## MOOC Certifications
 
-  - 
-
-
-## Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  - [Machine Learning](https://www.coursera.org/account/accomplishments/verify/ZH35NTYU5ZMC) (Stanford University) on Coursera
+  - [Computational Neuroscience](https://www.coursera.org/account/accomplishments/verify/GAX8WAU9LFM2) (University of Washington) on Coursera
+  - Deep Learning Specialization (Deeplearning.ai)
+    - [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/JHT9BR2KRFXY)
+    - [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/297VP3TE7XBD)
+    - [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/certificate/V7TTVZE526D4)
+  - [Object Oriented Programming](./)
+  - [Machine Learnign and Data-Science with Python](./) (Jose Portilla) on Udemy
   
+# Work Experience
+
+- ## Undergraduate Research Assistant, IISER Pune
+
+  ### Quantum Information and Complex systems Lab with Prof MS Santhanam [February '21 - Present]
+            
 Skills
 ======
 * Skill 1
