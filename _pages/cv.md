@@ -53,9 +53,9 @@ redirect_from:
         
   - Under Prof Sanjeev Galande, I led the dry-lab/computational modelling team of IISER Pune at the International Genetically Engineered Machine (iGEM) 2020, a synthetic biology competition that takes place in Boston every year. We worked on two major sub-projects :
     - PACMal (Peptides Against Cerebral Malaria)
-      - Used techniques from Bioinformatics, biophysics and computational biology to design peptide inhibitors against falciparum Cerebral Malaria, a deadly form of Malaria with very high mortality rate. I wrote programs in Bash, Python and performed Molecular Dynamics simulations on Parambrahma - the supercomputer at IISER Pune.
+      - Used techniques from Bioinformatics, biophysics and computational biology to design peptide inhibitors against falciparum Cerebral Malaria, a deadly form of Malaria with very high mortality rate. I wrote programs in Bash, Python and performed course-grained molecular dynamics simulations on PARAM brahma- the supercomputer facility at IISER Pune.
     - DeleMa-Detect (Deep Learning for Malaria Detection)
-      - Worked on developing and deploying an end-to-end deep learning solution for Malaria diagnosis using Transfer Learning. After extensive Hyperparameter tuning, we achieved an accuracy of about 96%.
+      - Worked on developing and deploying an end-to-end deep learning solution for Malaria diagnosis using Transfer Learning. After extensive Hyperparameter tuning, we achieved an accuracy of about 96%. The deployed model can be found on [Heroku](https://delema-detect-igem-iiserpune.herokuapp.com/)
    - The team won the Gold Medal and was also awarded the iGEMER's award, the jury's award for best project.  
     - More information can be found on the team's [official wiki](https://2020.igem.org/Team:IISER-Pune-India) and articles in newspapers can be found ([TOI](https://timesofindia.indiatimes.com/home/education/news/iiser-pune-team-wins-gold-at-the-igem-2020-synthetic-biology-competition/articleshow/79373704.cms), [IISER News](https://www.iiserpune.ac.in/news/iiser-pune-team-wins-gold-at-igem-2020-synthetic-biology-competition) and [Indian Express](https://indianexpress.com/article/cities/pune/14-researchers-from-iiser-pune-win-gold-medal-at-igem-7064314/)). The code I wrote can be found here ([PacMal](https://github.com/Anantha-Rao12/Peptides-against-Cerebral-Malaria)) ([DeleMa-detect](https://github.com/Anantha-Rao12/DeleMa-detect))
         
@@ -68,20 +68,28 @@ redirect_from:
 
         
         
-        
-        
-        
-        
-        
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+# Skills
 
+- Scientific Skills:
+  - Machine Learning Techniques (Intermediate)
+    - (Linear regression, Logistic Regression, SVM, KNN, Decision Tree, Random Forest, Ensemble Learning) 
+  - Deep Learning Techniques (Intermediate)
+    - (ANN, CNN, RNN, LSTM) 
+  - Basic experimental techniques in Physics
+  
+- Programming:
+  - Python (Advanced)
+    - Well versed in Numpy, Pandas, Matplotlib, Seaborn, Tensorflow2.0, Keras, Scikit-Learn, Qiskit 
+  - Bash Scripting and Linux OS (Intermediate)
+  - LaTeX , Git , Vim (Intermediate)
+  - C++ (Intermediate)
+  - MATLAB (Intermediate)
+  - R (Intermediate)
+  - Microsoft Office and Excel (Intermediate)
+  - GROMACS - for molecular dynamics (Intermediate)
+  - Fortran (Basic)
+  - Frontend (HTML,CSS,JS) (Basic)
+   
 Publications
 ======
   <ul>{% for post in site.publications %}
