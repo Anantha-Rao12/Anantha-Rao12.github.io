@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Anantha Rao"
 title_separator          : "-"
 name                     : &name "Anantha S Rao"
-description              : &description "Quantum Computing Research Intern || BS-MS Physics at IISER-Pune"
-url                      : https://AnanthaRao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Quantum Computing Research Intern || BS-MS Physics Undergrad at IISER-Pune"
+url                      : https://anantha-rao12.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "AnanthaRao.github.io"
+repository               : anantha-rao12.github.io
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
