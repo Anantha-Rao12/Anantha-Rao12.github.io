@@ -11,13 +11,13 @@ redirect_from:
 
 # Index
 
-- [Education](#Education)
-- [Experience](#Work experience)
-- [Skills](#Skills)
-- [Awards](#Awards and Achievements)
-- [Interests](#Interests)
+- [Education](#education)
+- [Experience](#experience)
+- [Skills](#skills)
+- [Awards](#awards)
+- [Interests](#interests)
 
-# Education
+# Education <a name="education"></a>
 
 - ## Indian Institute of Science Education and Research, Pune, India
 
@@ -47,7 +47,7 @@ redirect_from:
   - [Object Oriented Programming](./)
   - [Machine Learnign and Data-Science with Python](./) (Jose Portilla) on Udemy
   
-# Work Experience
+# Work Experience <a name="experience"></a>
 
 - ## Undergraduate Research Assistant, IISER Pune
 
@@ -59,7 +59,7 @@ redirect_from:
 
   ### Software and Modelling Team Leader [April '20 - Nov '20]
         
-  - Under Prof Sanjeev Galande, I led the dry-lab/computational modelling team of IISER Pune at the International Genetically Engineered Machine (iGEM) 2020, a synthetic biology competition that takes place in Boston every year. We worked on two major sub-projects :
+  - Under [Prof Sanjeev Galande](https://www.sglabepigenetics.com/), I led the dry-lab/computational modelling team of IISER Pune at the International Genetically Engineered Machine (iGEM) 2020, a synthetic biology competition that takes place in Boston every year. We worked on two major sub-projects :
     - PACMal (Peptides Against Cerebral Malaria)
       - Used techniques from Bioinformatics, biophysics and computational biology to design peptide inhibitors against falciparum Cerebral Malaria, a deadly form of Malaria with very high mortality rate. I wrote programs in Bash, Python and performed course-grained molecular dynamics simulations on PARAM brahma- the supercomputer facility at IISER Pune.
     - DeleMa-Detect (Deep Learning for Malaria Detection)
@@ -68,7 +68,7 @@ redirect_from:
     - More information can be found on the team's [official wiki](https://2020.igem.org/Team:IISER-Pune-India) and articles in newspapers can be found ([TOI](https://timesofindia.indiatimes.com/home/education/news/iiser-pune-team-wins-gold-at-the-igem-2020-synthetic-biology-competition/articleshow/79373704.cms), [IISER News](https://www.iiserpune.ac.in/news/iiser-pune-team-wins-gold-at-igem-2020-synthetic-biology-competition) and [Indian Express](https://indianexpress.com/article/cities/pune/14-researchers-from-iiser-pune-win-gold-medal-at-igem-7064314/)). The code I wrote can be found here ([PacMal](https://github.com/Anantha-Rao12/Peptides-against-Cerebral-Malaria)) ([DeleMa-detect](https://github.com/Anantha-Rao12/DeleMa-detect))
         
         
-- ## Student Intern,   
+- ## Student Intern
 
   ### Theoretical Neuroscience Lab, IISER Pune (Dec '19 - Feb '20)
 
@@ -76,7 +76,7 @@ redirect_from:
 
         
         
-# Skills
+# Skills <a name="skills"></a>
 
 - Scientific Skills:
   - Machine Learning Techniques (Intermediate)
@@ -99,7 +99,7 @@ redirect_from:
   - Frontend (HTML,CSS,JS) (Basic)
    
 
-# Awards and Achievements 
+# Awards and Achievements <a name="awards"></a>
 
 - **iGEM Gold Medal** and **iGEMER's Award** (2020) : Voted as the year’s best iGEM project by all 250+ contesting teams from 100+ countries
 - **NGPE** Award (2020) : Top 1% in the state for the National Graduate Physics Examination
@@ -111,7 +111,7 @@ redirect_from:
 - School Head Boy (2015) and Assistant Head Boy (2014)
 
 
-# Interests 
+# Interests <a name="interests"></a>
 
 - My research interests are mainly in the subjects of Quantum Information, Quantum Computing, Data Science, Machine Learning, Computational Modelling and Simulation. 
 - I enjoy solving complex problems by using the knowledge and skills from the diverse disciplines of Fundamental and Applied sciences.
