@@ -43,8 +43,37 @@ redirect_from:
 
 - ## Undergraduate Research Assistant, IISER Pune
 
-  ### Quantum Information and Complex systems Lab with Prof MS Santhanam [February '21 - Present]
-            
+  ### Quantum Information and Complex systems Lab with Prof MS Santhanam [February '21 - Present]       
+    
+    - Currently working under [Prof MS Santhanam](http://www.iiserpune.ac.in/~santh/) at IISER Pune on developing a Quantum Machine Learning algorithm to compute Out-of-Time-order correlators that are useful in Quantum Information Processing and to study localization in chaotic quantum systems. 
+
+- ## iGEM IISER Pune 
+
+  ### Software and Modelling Team Leader [April '20 - Nov '20]
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
 Skills
 ======
 * Skill 1
