@@ -13,7 +13,7 @@ redirect_from:
 
 - ## Indian Institute of Science Education and Research, Pune, India
 
-  ## Bachelor of Science-Master of Science (Major in Physics) [Aug 2018 - May 2023]
+  ### Bachelor of Science-Master of Science (Major in Physics) [Aug 2018 - May 2023]
 
   - **Relevant Coursework**: 
     - First two years included courses (theory and lab) from all basic and applied science disciplines of Physics, Chemistry, Biology, Mathematics, Earth Sciences, Computational Sciences and Humanities. 
