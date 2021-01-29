@@ -25,7 +25,7 @@ redirect_from:
 
   - **Relevant Coursework**: 
     - First two years included courses (theory and lab) from all basic and applied science disciplines of Physics, Chemistry, Biology, Mathematics, Earth Sciences, Computational Sciences and Humanities. 
-    - **Specialization** : Classical Mechanics, Quantum Mechanics I, Electrodynamics, Optics, Linear Algebra, Calculus I-III, Basic structures in Mathematics, Physics Lab I-III
+    - **Specialization** : Classical Mechanics, Quantum Mechanics I, Electrodynamics, Mathematical Methods in Physics, Optics, Linear Algebra, Calculus I-III, Basic structures in Mathematics, Physics Lab I-III
     - Current Semester : Statistical Mechanics I, Quantum Information, Nonlinear Dynamics, Quantum Mechanics II, Graph Theory, Data Science
 
   - **Extracurricular Positions**:
