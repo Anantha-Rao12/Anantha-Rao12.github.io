@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+# Index
+
+- [Education](#Education)
+- [Experience](#Work experience)
+- [Skills](#Skills)
+- [Awards](#Awards and Achievements)
+- [Interests](#Interests)
+
 # Education
 
 - ## Indian Institute of Science Education and Research, Pune, India
@@ -90,24 +98,21 @@ redirect_from:
   - Fortran (Basic)
   - Frontend (HTML,CSS,JS) (Basic)
    
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+# Awards and Achievements 
+
+- **iGEM Gold Medal** and **iGEMER's Award** (2020) : Voted as the year’s best iGEM project by all 250+ contesting teams from 100+ countries
+- **NGPE** Award (2020) : Top 1% in the state for the National Graduate Physics Examination
+- **KVPY Fellow** (2018-2023) : Awarded the National Kishore Vaigyanik Protsahan Yojna Fellowship by the Government of India to pursue a career in research
+- **IIT-JEE** (2018) : Top 99 percentile in the country 
+- **KCET** (2018) : Awarded a State Rank of 208 in the common entrance examination
+- **IAYP** (International Award for Young People) Bronze medal awarded by the Duke of Edinburgh.
+- Won Several National Quizzes (Science, Trivia, History, etc.) and Debate competitions like the Bournvita Quiz Championship, National Intach Heritage Quiz, Conquistador organized by PESIT, Kumaran-Model United Nations etc
+- School Head Boy (2015) and Assistant Head Boy (2014)
+
+
+# Interests 
+
+- My research interests are mainly in the subjects of Quantum Information, Quantum Computing, Data Science, Machine Learning, Computational Modelling and Simulation. 
+- I enjoy solving complex problems by using the knowledge and skills from the diverse disciplines of Fundamental and Applied sciences.
+- When not indulged in Academic study or research, I play the Guitar and read books, mainly, science fiction and general nonfiction. I am a cricket fanatic have played professional cricket for Bangalore (2014-15) and was the school cricket team captain. I also swim, and particularly enjoy outdoor activates. 
