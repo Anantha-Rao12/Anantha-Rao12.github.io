@@ -9,17 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
+# Education
 
-### Indian Institute of Science Education and Research, Pune, India
+- ## Indian Institute of Science Education and Research, Pune, India
 
-#### Bachelor of Science-Master of Science (Major in Physics) [Aug 2018 - May 2023]
-    - **Relevant Coursework**: 
-      - First two years included courses (theory and lab) from all basic and applied science disciplines of Physics, Chemistry, Biology, Mathematics, Earth Sciences, Computational Sciences and Humanitites. 
-      - **Specialization** : Classical Mechanics, Quantum Mechanics I, Electrodynamics, Optics, Linear Algebra, Calculus I-III, Basic structures in Mathematics, Physics Lab I-III
-      - Current Semester : Statistical Mechanics I, Quantum Inforamtion, Nonlinear Dynamics, Quantum Mechanics II, Graph Theory, Data Science
+## Bachelor of Science-Master of Science (Major in Physics) [Aug 2018 - May 2023]
 
-   - **Activities and Scoieties**: [iGEM Club IISER Pune](https://sites.google.com/sac.iiserpune.ac.in/igem-iiserp) (Co-Leader)  [IISER Pune Quiz Club](https://sites.google.com/sac.iiserpune.ac.in/quiz/our-team) (Part-time Quiz Master [2020]), [Karavaan IISER Pune](https://www.karavaan.org/) (Research and Analysis Co-ordinator [2019] , Director of Corporate-Relations [2020]), [Mimamsa IISER Pune](http://mimamsa.iiserpune.ac.in/) (Center Co-ordinator [2020])
+- **Relevant Coursework**: 
+  - First two years included courses (theory and lab) from all basic and applied science disciplines of Physics, Chemistry, Biology, Mathematics, Earth Sciences, Computational Sciences and Humanities. 
+  - **Specialization** : Classical Mechanics, Quantum Mechanics I, Electrodynamics, Optics, Linear Algebra, Calculus I-III, Basic structures in Mathematics, Physics Lab I-III
+  - Current Semester : Statistical Mechanics I, Quantum Information, Nonlinear Dynamics, Quantum Mechanics II, Graph Theory, Data Science
+
+- **Activities and Societies**: [iGEM Club IISER Pune](https://sites.google.com/sac.iiserpune.ac.in/igem-iiserp) (Co-Leader)  [IISER Pune Quiz Club](https://sites.google.com/sac.iiserpune.ac.in/quiz/our-team) (Part-time Quiz Master [2020]), [Karavaan IISER Pune](https://www.karavaan.org/) (Research and Analysis Co-ordinator [2019] , Director of Corporate Relations [2020]), [Mimamsa IISER Pune](http://mimamsa.iiserpune.ac.in/) (Center Coordinator [2020])
 
 
 ## Work experience
