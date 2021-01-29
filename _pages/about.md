@@ -12,8 +12,8 @@ redirect_from:
 - My research interests are mainly in the subjects of Quantum Information, Quantum Computing, Data Science, Machine Learning, Computational Modelling and Simulation. Lately I have also been marveled by some beautiful cold-atoms experiments and simulations.
 - My Career Objective is quite simple: “Follow my heart, spread my love for Science, and finally, do good for the world and posterity.” 
 
-# Highlights
+# Career Highlights
 
 - IGEM IISER Pune Software and Modeling Team Leader
-- KVPY Scholar recognized by the Government of India
+- KVPY Research Scholar recognized by the Government of India
 
