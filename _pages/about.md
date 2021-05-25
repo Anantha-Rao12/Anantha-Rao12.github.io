@@ -8,13 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-- I am currently a 3rd year BS-MS student, majoring in Physics (minor in Data Science) at the Indian Institute of Science Education and Research Pune ([IISER Pune](http://www.iiserpune.ac.in/)), India. 
-- I am also a Research Intern working under [Prof MS Santhanam](http://www.iiserpune.ac.in/~santh/) on the topic of Many-body localization in Quantum Chaos and Quantum Machine Learning. 
-- My research interests are mainly in the subjects of Quantum Information, Quantum Computing, Data Science, Machine Learning, Computational Modelling and Simulation. Lately I have also been marveled by some beautiful cold-atoms experiments and simulations.
+- I am a 3rd year BS-MS student, majoring in Physics (with a minor in Data Science) at the Indian Institute of Science Education and Research Pune ([IISER Pune](http://www.iiserpune.ac.in/)), India. 
+- I am currently working on understanding electronic and quantum phase transitions at low temperatures using machine learning, under the supervision of by [Prof.Brad Marston](https://sites.brown.edu/bradmarston/) and [Dr.Stephen Carr](https://sites.google.com/view/stcarr/) at Brown University. 
+- I am also a Research Intern working with [Prof MS Santhanam](http://www.iiserpune.ac.in/~santh/) at IISER Pune on many-body localization and information scrambling in quantum chaotic systems.
 - My Career Objective is quite simple: “Follow my heart, spread my love for Science, and finally, do good for the world and posterity.” 
-
+- My research interests are primarily in the subjects of Quantum Information, Quantum Computing, Data Science, Machine Learning, Computational Modelling and Simulation.
+ 
 # Career Highlights
 
-- IGEM IISER Pune Software and Modeling Team Leader (2020)
+- GSoC ML4SCI Student Developer : 2021
+- NGPE (National Graduate Physics Examination) : Maharasthra 2nd in the state, Top 2% in the country. 
+- IGEM IISER Pune Software and Modeling Team Leader : 2020
 - KVPY Research Scholar recognized by the Government of India (2018-2023)
 

@@ -45,34 +45,33 @@ redirect_from:
     - [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/297VP3TE7XBD)
     - [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/certificate/V7TTVZE526D4)
   - [Object Oriented Programming](./)
-  - [Machine Learnign and Data-Science with Python](./) (Jose Portilla) on Udemy
+  - [Machine Learning and Data-Science with Python](./) (Jose Portilla) on Udemy
   
 # Work Experience <a name="experience"></a>
 
-- ## Undergraduate Research Assistant, IISER Pune
-
-  ### Quantum Information and Complex systems Lab with Prof MS Santhanam [February '21 - Present]       
+- ## Student Developer : Google Summer of Code (2021)
     
-    - Currently working with [Prof MS Santhanam](http://www.iiserpune.ac.in/~santh/) at IISER Pune on developing a Quantum Machine Learning algorithm to compute Out-of-Time-order correlators that are useful in Quantum Information Processing and to study localization in chaotic quantum systems. 
+    - Working on the project titled ["Decoding quantum states through Nuclear Magnetic Resonance"](https://summerofcode.withgoogle.com/projects/#6588988095201280) under the ML4SCI organization.
+    - Researching and studying methods to understand quantum phase transitions using machine learning under the supervision of Prof.Brad Marston and Dr.Stephen Carr.
 
-- ## iGEM IISER Pune 
+- ## Research Student at Prof MS Santhanam's Research Group [February '21 - Present]       
+    
+    - Currently researching and developing an algorithm to compute Out-of-Time-Order correlators using the quantum kicked rotor as a model to study information scrambling and many-body localization in chaotic quantum systems.
 
-  ### Software and Modelling Team Leader [April '20 - Nov '20]
+-  ### Software and Modeling Team Leader  at iGEM IISER Pune [April '20 - Nov '20]
         
-  - Under [Prof Sanjeev Galande](https://www.sglabepigenetics.com/), I led the dry-lab/computational modelling team of IISER Pune at the International Genetically Engineered Machine (iGEM) 2020, a synthetic biology competition that takes place in Boston every year. We worked on two major sub-projects :
-    - PACMal (Peptides Against Cerebral Malaria)
-      - Used techniques from Bioinformatics, biophysics and computational biology to design peptide inhibitors against falciparum Cerebral Malaria, a deadly form of Malaria with very high mortality rate. I wrote programs in Bash, Python and performed course-grained molecular dynamics simulations on PARAM brahma- the supercomputer facility at IISER Pune.
-    - DeleMa-Detect (Deep Learning for Malaria Detection)
-      - Worked on developing and deploying an end-to-end deep learning solution for Malaria diagnosis using Transfer Learning. After extensive Hyperparameter tuning, we achieved an accuracy of about 96%. The deployed model can be found on [Heroku](https://delema-detect-igem-iiserpune.herokuapp.com/)
-   - The team won the Gold Medal and was also awarded the iGEMER's award, the jury's award for best project.  
-    - More information can be found on the team's [official wiki](https://2020.igem.org/Team:IISER-Pune-India) and articles in newspapers can be found ([TOI](https://timesofindia.indiatimes.com/home/education/news/iiser-pune-team-wins-gold-at-the-igem-2020-synthetic-biology-competition/articleshow/79373704.cms), [IISER News](https://www.iiserpune.ac.in/news/iiser-pune-team-wins-gold-at-igem-2020-synthetic-biology-competition) and [Indian Express](https://indianexpress.com/article/cities/pune/14-researchers-from-iiser-pune-win-gold-medal-at-igem-7064314/)). The code I wrote can be found here ([PacMal](https://github.com/Anantha-Rao12/Peptides-against-Cerebral-Malaria)) ([DeleMa-detect](https://github.com/Anantha-Rao12/DeleMa-detect))
+    - Supervisor : [Prof Sanjeev Galande](https://www.sglabepigenetics.com/)
+    - Spearheaded the software and modeling team at the International Genetically Engineered Machine (iGEM) 2020, a synthetic biology competition. The team was awarded the Gold Medal and the iGEMER's prize: the jury's award for best project.  
+    - Lead a team of 6 people to research, troubleshoot and develop [PACMal](https://github.com/igemsoftware2020/IISER-Pune-India/tree/master/Peptides_against_Malaria) (Peptides Against Cerebral Malaria) and [DeleMa-Detect](https://2020.igem.org/Team:IISER-Pune-India/Software) (Deep Learning for Malaria Detection) modules of the project.
+    - Programmed, Improved and Deployed an end-to-end deep learning solution for Malaria diagnosis with an accuracy of about 96% on [Heroku](https://delema-detect-igem-iiserpune.herokuapp.com/) as a new generation solution for malaria diagnosis. 
+    - Identified new potential therapectic peptide drugs at falciparum cerebral malaria. Publication [link](http://dr.iiserpune.ac.in:8080/xmlui/handle/123456789/5864)
+    - More information can be found on the team's [official wiki](https://2020.igem.org/Team:IISER-Pune-India) and articles in newspapers can be found ([TOI](https://timesofindia.indiatimes.com/home/education/news/iiser-pune-team-wins-gold-at-the-igem-2020-synthetic-biology-competition/articleshow/79373704.cms), [IISER News](https://www.iiserpune.ac.in/news/iiser-pune-team-wins-gold-at-igem-2020-synthetic-biology-competition) and [Indian Express](https://indianexpress.com/article/cities/pune/14-researchers-from-iiser-pune-win-gold-medal-at-igem-7064314/))
         
         
-- ## Student Intern
+- ## Student Intern at Theoretical Neuroscience Lab, IISER Pune (Dec '19 - Feb '20)
 
-  ### Theoretical Neuroscience Lab, IISER Pune (Dec '19 - Feb '20)
-
-  - Under [Dr.Collins Assisi](http://www.iiserpune.ac.in/~collins/), I worked on on developing a biologically realistic model of Grid cells found in mammalian entorhinal cortex based on Continuous Attractor Network Dynamics using Python3.0 and TensorFlow2.0 . The project was interdisciplinary and required knowledge from disciplines of neuroscience, non-linear dynamics, differential equations and numerical computation.
+  - Under the supervision of [Dr.Collins Assisi](http://www.iiserpune.ac.in/~collins/), I worked on on developing a biologically realistic model of Grid cells found in mammalian entorhinal cortex based on Continuous Attractor Network Dynamics using Python3.0 and TensorFlow2.0 
+  - Researched and maintained scripts to compute various quantities from disciplines of neuroscience, non-linear dynamics, differential equations. 
 
         
         
@@ -88,6 +87,7 @@ redirect_from:
 - Programming:
   - Python (Advanced)
     - Well versed in Numpy, Pandas, Matplotlib, Seaborn, Tensorflow2.0, Keras, Scikit-Learn, Qiskit 
+  - Julia (Intermediate)
   - Bash Scripting and Linux OS (Intermediate)
   - LaTeX , Git , Vim (Intermediate)
   - C++ (Intermediate)
@@ -101,7 +101,7 @@ redirect_from:
 
 # Awards and Achievements <a name="awards"></a>
 
-- **iGEM Gold Medal** and **iGEMER's Award** (2020) : Voted as the year’s best iGEM project by all 250+ contesting teams from 100+ countries
+- **iGEM Gold Medal** and **iGEMER's Award** (2020) : Voted as the year’s best iGEM project by all 250+ contesting teams from 40+ countries
 - **NGPE** Award (2020) : Top 1% in the state for the National Graduate Physics Examination
 - **KVPY Fellow** (2018-2023) : Awarded the National Kishore Vaigyanik Protsahan Yojna Fellowship by the Government of India to pursue a career in research
 - **IIT-JEE** (2018) : Top 99 percentile in the country 
