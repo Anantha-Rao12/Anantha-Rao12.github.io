@@ -16,8 +16,8 @@ redirect_from:
  
 # Career Highlights
 
-- GSoC ML4SCI Student Developer : 2021
-- NGPE (National Graduate Physics Examination) : Maharasthra 2nd in the state, Top 2% in the country. 
+- Google Summer of Code (GSoC) Student Developer : 2021
+- National Graduate Physics Examination (NGPE) : 2nd in the state Maharasthra,  Top 2% in the country. 
 - IGEM IISER Pune Software and Modeling Team Leader : 2020
-- KVPY Research Scholar recognized by the Government of India (2018-2023)
+- Kishore Vaigyanik Protsahan Yojana (KVPY) Research Scholar recognized by the Government of India (2018-2023)
 

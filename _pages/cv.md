@@ -49,7 +49,7 @@ redirect_from:
   
 # Work Experience <a name="experience"></a>
 
-- ## Student Developer : Google Summer of Code (2021)
+- ## Student Developer : Google Summer of Code [May '21 - Present]
     
     - Working on the project titled ["Decoding quantum states through Nuclear Magnetic Resonance"](https://summerofcode.withgoogle.com/projects/#6588988095201280) under the ML4SCI organization.
     - Researching and studying methods to understand quantum phase transitions using machine learning under the supervision of Prof.Brad Marston and Dr.Stephen Carr.
@@ -58,13 +58,14 @@ redirect_from:
     
     - Currently researching and developing an algorithm to compute Out-of-Time-Order correlators using the quantum kicked rotor as a model to study information scrambling and many-body localization in chaotic quantum systems.
 
--  ### Software and Modeling Team Leader  at iGEM IISER Pune [April '20 - Nov '20]
+-  ## Software and Modeling Team Leader  at iGEM IISER Pune [March '20 - Nov '20]
         
     - Supervisor : [Prof Sanjeev Galande](https://www.sglabepigenetics.com/)
     - Spearheaded the software and modeling team at the International Genetically Engineered Machine (iGEM) 2020, a synthetic biology competition. The team was awarded the Gold Medal and the iGEMER's prize: the jury's award for best project.  
     - Lead a team of 6 people to research, troubleshoot and develop [PACMal](https://github.com/igemsoftware2020/IISER-Pune-India/tree/master/Peptides_against_Malaria) (Peptides Against Cerebral Malaria) and [DeleMa-Detect](https://2020.igem.org/Team:IISER-Pune-India/Software) (Deep Learning for Malaria Detection) modules of the project.
+    - Maintained scripts and ran several molecular dynamics simulations on the Parambrahma Supercomputer cluster. 
     - Programmed, Improved and Deployed an end-to-end deep learning solution for Malaria diagnosis with an accuracy of about 96% on [Heroku](https://delema-detect-igem-iiserpune.herokuapp.com/) as a new generation solution for malaria diagnosis. 
-    - Identified new potential therapectic peptide drugs at falciparum cerebral malaria. Publication [link](http://dr.iiserpune.ac.in:8080/xmlui/handle/123456789/5864)
+    - Identified novel potential therapectic peptide drugs against falciparum cerebral malaria with an insilico efficinecy of ~93%. ([Publication](http://dr.iiserpune.ac.in:8080/xmlui/handle/123456789/5864)
     - More information can be found on the team's [official wiki](https://2020.igem.org/Team:IISER-Pune-India) and articles in newspapers can be found ([TOI](https://timesofindia.indiatimes.com/home/education/news/iiser-pune-team-wins-gold-at-the-igem-2020-synthetic-biology-competition/articleshow/79373704.cms), [IISER News](https://www.iiserpune.ac.in/news/iiser-pune-team-wins-gold-at-igem-2020-synthetic-biology-competition) and [Indian Express](https://indianexpress.com/article/cities/pune/14-researchers-from-iiser-pune-win-gold-medal-at-igem-7064314/))
         
         
@@ -115,4 +116,4 @@ redirect_from:
 
 - My research interests are mainly in the subjects of Quantum Information, Quantum Computing, Data Science, Machine Learning, Computational Modelling and Simulation. 
 - I enjoy solving complex problems by using the knowledge and skills from the diverse disciplines of Fundamental and Applied sciences.
-- When not indulged in Academic study or research, I play the Guitar and read books, mainly, science fiction and general nonfiction. I am a cricket fanatic have played professional cricket for Bangalore (2014-15) and was the school cricket team captain. I also swim, and particularly enjoy outdoor activates. 
+- When not indulged in Academic study or research, I play the Guitar and read books, mainly, science fiction and general nonfiction. I am a cricket fanatic have played professional cricket for Bangalore (2014-15) and was the school cricket team captain. I also swim, and particularly enjoy outdoor activates. I also maintain a large-scale terrace garden in my community. 
