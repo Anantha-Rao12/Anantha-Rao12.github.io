@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Ananth, a 3rd year BS-MS student at the Indian Institute of Science Education and Research Pune, India, majoring in Physics at the [Department of Physics](https://www.iiserpune.ac.in/) with a Data Science minor. I am have a physicist (in training) primarily interested in disciplines of quantum inforamtion theory, quantum computing but I have just enough knowledge in computer science and data science to make trouble. My research, motivation and broader service are all grounded in the idea that “Follow your heart, spread my love for Science, and finally, do good for the world and posterity.” 
+Hi! I'm Ananth, a 3rd year BS-MS student at the Indian Institute of Science Education and Research Pune, India, majoring in Physics at the [Department of Physics](https://www.iiserpune.ac.in/) with a Data Science minor. I am have a Physicist (in training) primarily interested to work in the area of quantum inforamtion theory, quantum computing, and condensed matter physics but I have just enough knowledge in computer science and data science to make trouble. My research, motivation and broader service are all grounded in the idea to “Follow my heart, spread my love for Science, and finally, do good for the world and posterity.” 
 
 
 ## My work and Research 
