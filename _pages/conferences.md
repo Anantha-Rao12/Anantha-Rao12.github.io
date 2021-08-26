@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-# Qiskit Global Summer School 2021: Quantum Machine Learning
+- ## Qiskit Global Summer School 2021: Quantum Machine Learning
 
-# Google Quantum Summer Symposium 2021
+- ## Google Quantum Summer Symposium 2021
 
 
 
