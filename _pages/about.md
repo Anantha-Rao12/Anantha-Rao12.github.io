@@ -16,9 +16,9 @@ Welcome!
 
 ## My work and Research 
 - Broad Research interests: Quantum chaos, Quantum computing, Quantum algorithms, Machine learning.
-- Currently, I work as a research intern with [Prof MS Santhanam](http://www.iiserpune.ac.in/~santh/) at IISER Pune. We've previously looked at problems from many-body localization and information scrambling in quantum chaotic systems. Now, I'm developing novel quantum search algorithms using the quantum kicked rotor as a model. 
-- In the summer of 2021, I studied electronic and quantum phase transitions at low temperatures under the supervision of by [Prof.Brad Marston](https://sites.brown.edu/bradmarston/) and [Dr.Stephen Carr](https://sites.google.com/view/stcarr/) at Brown University. The broader project is a part of Google Summer of Code 2021 under the ML4SCI organization. We created an open source application to process, extract feature, and identify quantum phases using machine learning. 
-- In 2021, I was the cofounding member and lead the software team of the first student-led startup [Curem Biotech](https://curembiotech.com/), at IISER Pune.
+- Currently, I work as a research intern with <a href="http://www.iiserpune.ac.in/~santh/" target="_blank">Prof MS Santhanam</a> at IISER Pune. We've previously looked at problems from many-body localization and information scrambling in quantum chaotic systems. Now, I'm developing novel quantum search algorithms using the quantum kicked rotor as a model. 
+- In the summer of 2021, I studied electronic and quantum phase transitions at low temperatures under the supervision of by <a href="https://sites.brown.edu/bradmarston/" target="_blank">Prof.Brad Marston</a> and <a href="https://sites.google.com/view/stcarr/" target="_blank">Dr.Stephen Carr</a> at Brown University. The broader project is a part of Google Summer of Code 2021 under the ML4SCI organization. We created an open source application to process, extract feature, and identify quantum phases using machine learning. 
+- In 2021, I was the cofounding member and lead the software team of the first student-led startup <a href="https://curembiotech.com/" target="_blank">Curem Biotech</a>, at IISER Pune.
 - I am an avid supporter of FOSS (Free and Open source software) and have also contributed to various open source organizations (Julia, iGEM and ML4SCI) 
 - You can find a more succinct version of my research summary in <a href="https://raw.githubusercontent.com/Anantha-Rao12/Anantha-Rao12.github.io/master/assets/Arao-WorkSummary-presentation.pdf" target="_blank">this</a> small presentation. 
  
@@ -26,7 +26,7 @@ Welcome!
 
 - Masters thesis student at IBM Research (incoming 2022-23)
 - Google Summer of Code (GSoC) Student Developer : 2021
-- National Graduate Physics Examination (NGPE) : 2nd in the state Maharasthra,  Top 2% in the country. 
+- National Graduate Physics Examination (NGPE) : 2nd in the state Maharasthra, Top 2% in the country. 
 - IGEM IISER Pune Software and Modeling Team Leader : 2020 (Gold Medal and Jury's Best project award)
 - Kishore Vaigyanik Protsahan Yojana (KVPY) Research Scholar recognized by the Government of India (2018-2023)
 
