@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Anantha Rao"
 title_separator          : "-"
 name                     : &name "Anantha S Rao"
-description              : &description "Quantum Computing Research Intern || BS-MS Physics Undergrad at IISER-Pune"
+description              : &description "BS-MS Physics @ IISER-Pune"
 url                      : https://anantha-rao12.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anantha-rao12.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Anantha S Rao"
   avatar           : "Ananth.jpg"
-  bio              : "Machine Learning Research Intern, Brown University || BS-MS Physics '23 IISER Pune || GSoC ML4SCI '21 || iGEM IISERP Team Leader '20"
+  bio              : "BS-MS Physics '23 IISER Pune"
   location         : "Bangalore, India"
   employer         :
   pubmed           : 
