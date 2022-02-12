@@ -20,7 +20,8 @@ Welcome!
 - In the summer of 2021, I studied electronic and quantum phase transitions at low temperatures under the supervision of by [Prof.Brad Marston](https://sites.brown.edu/bradmarston/) and [Dr.Stephen Carr](https://sites.google.com/view/stcarr/) at Brown University. The broader project is a part of Google Summer of Code 2021 under the ML4SCI organization. We created an open source application to process, extract feature, and identify quantum phases using machine learning. 
 - In 2021, I was the cofounding member and lead the software team of the first student-led startup [Curem Biotech](https://curembiotech.com/), at IISER Pune.
 - I am an avid supporter of FOSS (Free and Open source software) and have also contributed to various open source organizations (Julia, iGEM and ML4SCI) 
-- You can find a more succinct version of my research summary in [this](https://docs.google.com/viewer?url={https://raw.githubusercontent.com/Anantha-Rao12/Anantha-Rao12.github.io/master/assets/Arao-WorkSummary-presentation.pdf}) small presentation. 
+- You can find a more succinct version of my research summary in [this](https://docs.google.com/viewer?url={}) small presentation. 
+- <a href="https://raw.githubusercontent.com/Anantha-Rao12/Anantha-Rao12.github.io/master/assets/Arao-WorkSummary-presentation.pdf" target="_blank">PDF.</a>
  
 ## Career Highlights
 
