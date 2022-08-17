@@ -10,7 +10,7 @@ redirect_from:
 
 Hi there!
 
-I'm Ananth, a 4th year undergraduate at the Indian Institute of Science Education and Research (IISER) Pune, India, majoring in physics with a minor in data science. I am broadly interested in studying quantum-mechanical systems and solving problems from quantum information theory, quantum computing, and condensed matter physics using theoretical and computational tools. To this end, I have just enough knowledge in computer science and data science and intend to leverage the data revolution and contribute to the ongoing *quantum revolution*.
+I'm Anantha. I am a 5th-year undergraduate student at the Indian Institute of Science Education and Research (IISER) Pune, India. I am majoring in theoretical physics, focussing particularly on quantum information theory and condensed matter physics, with a minor in data science. I am broadly interested in understanding the behavior of quantum materials and processes through theoretical and computational methods. The current landscape of noisy quantum devices for sensing and computing requires the development of new methods to understand their dynamic properties and design novel algorithms that can exhibit a quantum advantage. I am interested to work on the theory of such quantum devices, their limitations, and harnessing their power to design novel algorithms.
 
 Welcome!
 
