@@ -2,6 +2,7 @@
 title: "Peptides against Cerebral Malaria (PACMal)"
 excerpt: "Insilico modeling and design of Peptide Drugs against Falciparum Cerebral malaria"
 collection: portfolio
+date: 2020-12-04
 ---
 
 The goal of this project was to design peptide inhibitors against the DBLb domain of PF11_0521 PfEMP1 (Plasmodium falciparum Erythrocyte Membrane Protein 1), a membrane protein found on the cell-surface of malaria-infected erythrocytes (red blood cells). The attachment of PfEMP1 with ICAM1 allows infected erytrocytes to cross the blood-brain barrier and deposit clumped erythrocytes in the brain. This results in an advanced stage of Malaria called Cerebral Malaria that is characterised by seizures, coma and severe brain damage. Lennartz et al characterized the interaction of PfEMP1 with Human ICAM1 (Intercellular Adhesion Molecule 1), an endothelial receptor, and reported their findings in this 2017 paper. My work (primarily computational) is based on that and this subsequent 2019 paper.
