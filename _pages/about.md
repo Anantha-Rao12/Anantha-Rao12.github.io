@@ -16,8 +16,8 @@ Welcome!
 
 ## Work and Research 
 - Broad Research interests: Quantum information, Quantum algorithms, Condensed matter physics, Machine learning.
-- Currently, I am wroking with IBM Research on designing new variational quantum algorithms to probe for computational advantages in [generative machine learning](https://en.wikipedia.org/wiki/Generative_model). 
-- At IISER Pune, I continue to work with <a href="http://www.iiserpune.ac.in/~santh/" target="_blank">Prof MS Santhanam</a> We've previously looked at problems from many-body localization and information scrambling in quantum chaotic systems. Now, I'm developing novel quantum search algorithms using the quantum kicked rotor as a model. 
+- Currently, I am working with IBM Research on designing new variational quantum algorithms to probe for computational advantages in [generative machine learning](https://en.wikipedia.org/wiki/Generative_model). 
+- At IISER Pune, I continue to work with <a href="http://www.iiserpune.ac.in/~santh/" target="_blank">Prof MS Santhanam</a>. We've previously looked at problems from many-body localization and information scrambling in quantum chaotic systems. Now, I'm developing novel quantum search algorithms using the quantum kicked rotor as a model. 
 - In 2021, I was the cofounding member and lead the software team of the first student-led startup <a href="https://curembiotech.com/" target="_blank">Curem Biotech</a>, at IISER Pune.
 - I am an avid supporter of FOSS (Free and Open source software) and have also contributed to various open source organizations (Julia, iGEM and ML4SCI) 
  
