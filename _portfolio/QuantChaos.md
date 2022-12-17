@@ -1,6 +1,6 @@
 ---
 title: "QuantChaos"
-excerpt: "study quantum chaos and localization with the quantum kicked rotor<br/>"
+excerpt: "Studying quantum chaos and localization with the quantum kicked rotor<br/>"
 collection: portfolio
 ---
 
