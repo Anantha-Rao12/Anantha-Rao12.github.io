@@ -12,9 +12,10 @@ redirect_from:
 2. <a href="https://qiskit.org/" target="_blank"> Qiskit </a>: IBM's open source quantum software development kit for *most* things quantum.
 3. <a href="https://qutip.org/" target="_blank"> QuTiP</a>: Quantum Toolbox in Python for simulating the dynamics of open quantum systems. 
 
-## Machine learning and Physics
+## Machine learning and Quantum Physics
 
-1. <a href = "https://drive.google.com/file/d/1D1bL--Zmv0J7n-QEqRvRb3erf5abV1o0/view" target="_blank">The Universe is a generative model</a> by Prof. Lei Wang
+1. <a href = "https://quantumatlas.umd.edu/" target="_blank">The Quantum Atlas</a> by JQI and IQUIST. 
+2. <a href = "https://drive.google.com/file/d/1D1bL--Zmv0J7n-QEqRvRb3erf5abV1o0/view" target="_blank">The Universe is a generative model</a> by Prof. Lei Wang
 
 ## Making visually-appealing figures
 
