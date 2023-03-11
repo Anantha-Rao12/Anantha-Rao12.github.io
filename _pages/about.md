@@ -9,8 +9,7 @@ redirect_from:
 ---
   I am a 5th-year undergraduate student at the [Indian Institute of Science Education and Research (IISER) Pune](https://www.iiserpune.ac.in/), India, majoring in physics, focussing particularly on quantum information theory and condensed matter physics. The current landscape of noisy quantum devices requires the development of robust hardware, noise-friendly algorithms, and error-correcting schemes. The prospect of symbiotically combining physics and engineering to control such many-body quantum systems and building practical applications in quantum sensing and computing drives me as a scientist. In addition, the study of exotic materials like graphene and atomically thin semiconductors through ab-initio simulations and statistical methods interest me.
   
-You can find my research summary <a href="https://raw.githubusercontent.com/Anantha-Rao12/Anantha-Rao12.github.io/master/files/Arao-WorkSummary-presentation.pdf" target="_blank">here</a> and my curriculum vitae <a href="https://raw.githubusercontent.com/Anantha-Rao12/Anantha-Rao12.github.io/master/files/AnanthaRao_CV_githubio.pdf" target="_blank">here</a>.
-
+You can find my research summary <a href="https://raw.githubusercontent.com/Anantha-Rao12/Anantha-Rao12.github.io/master/files/AnanthaRao-WorkSummary.pdf" target="_blank">here</a> and my curriculum vitae (updated Feb 2023) <a href="https://raw.githubusercontent.com/Anantha-Rao12/Anantha-Rao12.github.io/master/files/AnanthaRao_CV.pdf" target="_blank">here</a>.
 
 
 Welcome!
