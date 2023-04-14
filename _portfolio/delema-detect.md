@@ -1,6 +1,6 @@
 ---
 title: "DeLeMa-Detect"
-excerpt: "Deep Learning for Malaria Detection<br/><img src='/images/delema-detect.png'>"
+excerpt: "Deep Learning for Malaria Detection<br/>"
 collection: portfolio
 date: 2020-12-24
 ---
