@@ -5,8 +5,6 @@ collection: portfolio
 date: 2021-09-12
 ---
 
-QuantChaos is a set of scripts and tools that can help one get acquainted with studying quantum systems like the quantum kicked rotor whose classical analogues exhibit senstive dependence to initial conditions, i.e chaos. A trajectory based definition of chaos breaks down in the quantum world and neccissitates a more refined definition of chaotic behavior. In QuantChaos, we motivate and develop tools such as the Lockshmidt Echo and Out-of-Time-ordered Correlator that are *opined* to be measures of chaos in such quantum systems at certain limits. 
-
-The quantum kicked rotor is a very exciting system where one can study diverse phenomena like Anderson localization originally seen in the disordered electronic systems and continuous-time quantum walks. 
+QuantChaos is a collection of scripts and tools that can help one get acquainted with studying quantum systems like the quantum kicked rotor (QKR). The QKR is the quantum analog of the classical kicked rotor and is a popular model used to study quantum chaos and dynamical localization. The classical model exhibits senstive dependence to initial conditions, i.e chaos. It is well known that nature is quantum mechanical and classical behaviour arises from quantum systems. However, since a trajectory-based definition of chaos breaks down in the quantum world, a more refined definition of chaos is required in the quantum world. In `QuantChaos`, we motivate and develop tools such as the Lockshmidt Echo and Out-of-Time-ordered Correlator that are *opined* to be measures of chaos in such quantum systems at certain limits.
 
 Link to repository containing all scripts is [here](https://github.com/Anantha-Rao12/QuantChaos).
