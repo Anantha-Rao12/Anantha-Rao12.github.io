@@ -2,7 +2,7 @@
 title: "Insilico design of peptide inhibitors against Cerebral Malaria"
 collection: publications
 permalink: /publication/2020-12-25-Insilico-design-of-peptide-inhibitors-against-Cerebral-Malaria
-excerpt: 'Malaria, the mosquito-borne disease, is one of the toughest global health crises we face today. In 2018, it was responsible for 228 million infections and 405,000 deaths worldwide, with children alone accounting for 67% of the total deaths. As of today, Artemisinin Combination Therapy (ACT) is the most potent anti-malarial drug, but there is growing evidence for malarial parasites attaining Artemisinin resistance worldwide, potentially making malaria untreatable in the years to come. In this project, we computationally design a library of peptide drugs against the erythrocyte membrane proteins of Plasmodium falciparum.'
+excerpt: 'Computational design of peptides against Cerebral Malaria; A cost-effective deep learning solution for malaria diagnosis'
 venue: 'IISER Pune Repository'
 date: 2020-12-25
 ---
