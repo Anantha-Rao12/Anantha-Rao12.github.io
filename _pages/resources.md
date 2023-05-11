@@ -12,6 +12,9 @@ redirect_from:
 2. <a href="https://qiskit.org/" target="_blank"> Qiskit </a>: IBM's open source quantum software development kit for *most* things quantum.
 3. <a href="https://qutip.org/" target="_blank"> QuTiP</a>: Quantum Toolbox in Python for simulating the dynamics of open quantum systems. 
 
+## Science and Youtube
+1. <a href = "https://www.youtube.com/@sixtysymbols" target="_blank">Cool videos</a> about physics and astronomy from the University of Nottingham.
+
 ## Machine learning and Quantum Physics
 
 1. <a href = "https://quantumatlas.umd.edu/" target="_blank">The Quantum Atlas</a> by JQI and IQUIST. 
