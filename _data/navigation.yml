@@ -15,8 +15,14 @@ main:
   - title: "Conferences"
     url: /conferences/
     
+  - title: "Advice"
+    url: /advice/
+    
   - title: "Reading"
     url: /reading/
     
   - title: "Resources"
     url: /resources/
+    
+  - title: "Advice"
+    url: /advice/
