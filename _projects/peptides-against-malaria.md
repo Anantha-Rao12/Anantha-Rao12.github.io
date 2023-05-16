@@ -1,7 +1,7 @@
 ---
 title: "Peptides against Cerebral Malaria (PACMal)"
 excerpt: "Insilico modeling and design of Peptide Drugs against Falciparum Cerebral malaria"
-collection: portfolio
+collection: projects
 date: 2020-12-04
 ---
 
