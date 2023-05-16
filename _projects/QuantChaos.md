@@ -1,7 +1,8 @@
 ---
 title: "QuantChaos"
-excerpt: "Studying quantum chaos and localization with the quantum kicked rotor<br/>"
 collection: projects
+permalink: /projects/quantchaos
+excerpt: "Studying quantum chaos and localization with the quantum kicked rotor<br/>"
 date: 2021-09-12
 ---
 
