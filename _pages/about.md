@@ -7,25 +7,31 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-
-## For Academics
-  I am currently a 5th-year undergraduate student at the [Indian Institute of Science Education and Research (IISER) Pune](https://www.iiserpune.ac.in/), India, majoring in physics, focussing particularly on quantum information theory. I will be joining the <a href="https://umdphysics.umd.edu" target="_blank">Physics department of UMD</a> in Fall 2023 to conduct research on novel quantum algorithms. The current landscape of noisy quantum devices requires the development of robust hardware, noise-friendly algorithms, and error-correcting schemes. My research interest is in developing novel quantum algorithms/protocols that can overcome the challenges of such noisy quantum devices. The interplay of physics and engineering in controlling quantum systems and building practical applications in quantum sensing and computing drives me as a scientist.
+Greetings! My name is Anantha (Ananth). I am a Physicist (in training), who loves quantum physics and computers. I am currently a final year master's student at [Indian Institute of Science Education and Research (IISER) Pune](https://www.iiserpune.ac.in/), and I will be joining the <a href="https://umdphysics.umd.edu" target="_blank">Physics department</a> at the University of Maryland (College Park) in Fall 2023.
   
 You can find my research summary <a href="https://raw.githubusercontent.com/Anantha-Rao12/Anantha-Rao12.github.io/master/files/AnanthaRao-WorkSummary.pdf" target="_blank">here</a> and my curriculum vitae (updated Feb 2023) <a href="https://raw.githubusercontent.com/Anantha-Rao12/Anantha-Rao12.github.io/master/files/AnanthaRao_CV.pdf" target="_blank">here</a>.
 
-## For Non-academics
-  Hi, I am a Physicist (in training) who studies tiny things at very low temperatures. I am an incoming graduate student at the <a href="https://umdphysics.umd.edu" target="_blank">Physics department at the University of Maryland (UMD)</a> from 2023. That means, I will be working towards a doctorate degree in physics at UMD. I enjoy participating in quantum hackathons, seminars and solving problems by pen or code. Besides research, I like exploring quaint corners in cities like Pune or Bangalore, where I can take photos, try street food and learn about history. I also enjoy reading non-fiction books and hiking the western ghats. You can find more on the above alluded topics in this digital space.
+This website is a place where I share my interests, and insights on various topics. Welcome!
 
-Welcome!
-
-## Interests and Research 
-- Broad research interests: Quantum information, Quantum algorithms, Condensed matter physics, Machine learning.
-- Currently, I am working with IBM Research on designing new variational quantum algorithms to probe for computational advantages in [generative machine learning](https://en.wikipedia.org/wiki/Generative_model). 
-- At IISER Pune, I continue to work with <a href="http://www.iiserpune.ac.in/~santh/" target="_blank">Prof MS Santhanam</a>. We've previously looked at problems from many-body localization and information scrambling in quantum chaotic systems. Now, I'm developing novel quantum search algorithms using the quantum kicked rotor as a model. 
-- In 2021, I was the cofounding member and lead the software team of the first student-led startup <a href="https://curembiotech.com/" target="_blank">Curem Biotech</a>, at IISER Pune.
+## Research interests
+- Broad research interests: Quantum information, Quantum algorithms, Condensed matter physics, Machine learning and deep learning.
+- During my master's thesis, I worked with IBM Research on developing new variational quantum algorithms for [generative machine learning](https://en.wikipedia.org/wiki/Generative_model).  
+- At IISER Pune, I work with <a href="http://www.iiserpune.ac.in/~santh/" target="_blank">Prof MS Santhanam</a> on various problems related to quantum chaos, many-body localization, and quantum search algorithms. 
+- In 2021, I co-founded and led the software team of <a href=“https://curembiotech.com/” target=“_blank”>Curem Biotech</a>, the first student-led startup at IISER Pune.
 - I am an avid supporter of FOSS (Free and Open source software) and have also contributed to various open source organizations (Julia, iGEM and ML4SCI) 
- 
 
-I play the guitar, read non-fiction books and write blog posts about science. I've lately been gardening but haven't been very good at that. I believe in "Learning everyday and contributing to the society". Thank you for staying by. Goodspeed. 
+## Other interests
+- Hackathons (quantum/classical), seminars on trends in academia+industry and problem-solving sessions are some of the events that interest me.
+- Exploring new places, photographing sights, trying street food and learning about history are some of the hobbies that I pursue.
+- Reading books (mostly non-fiction) and writing blog posts about science are some of the ways that I learn and communicate.
+- Playing the guitar and hiking the western ghats are some of the activities that I enjoy.
+- Gardening is something that I’ve recently started but I’m not very good at it yet.
+
+## Pet projects
+- <a href="https://github.com/Anantha-Rao12/QVAE" target="_blank">QeVAE</a> : A quantum-enhanced variational autoencoder
+- <a href="https://github.com/Anantha-Rao12/QCompiler" target="_blank">QCompiler</a> : A quantum compiler that executes quantum circuits and gates
+- <a href="https://github.com/Anantha-Rao12/QuantChaos" target="_blank">QuantChaos</a> : A introductory set of tutorials and code on the quantum kicked rotor
+- <a href="https://github.com/Anantha-Rao12/DeleMa-detect" target="_blank">DelemaDetect</a> : Deep learning for Malaria detection
+- <a href="https://github.com/Anantha-Rao12/Peptides-against-Cerebral-Malaria" target="_blank">PacMal</a> : Peptides against Cerebral malaria. (insilico modeling of peptide drugs)
+
 
