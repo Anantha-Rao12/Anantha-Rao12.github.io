@@ -28,10 +28,10 @@ This website is a place where I share my interests, and insights on various topi
 - Gardening is something that I’ve recently started but I’m not very good at it yet.
 
 ## Pet projects
-- <a href="https://github.com/Anantha-Rao12/QVAE" target="_blank">QeVAE</a> : A quantum-enhanced variational autoencoder
-- <a href="https://github.com/Anantha-Rao12/QCompiler" target="_blank">QCompiler</a> : A quantum compiler that executes quantum circuits and gates
-- <a href="https://github.com/Anantha-Rao12/QuantChaos" target="_blank">QuantChaos</a> : A introductory set of tutorials and code on the quantum kicked rotor
-- <a href="https://github.com/Anantha-Rao12/DeleMa-detect" target="_blank">DelemaDetect</a> : Deep learning for Malaria detection
-- <a href="https://github.com/Anantha-Rao12/Peptides-against-Cerebral-Malaria" target="_blank">PacMal</a> : Peptides against Cerebral malaria. (insilico modeling of peptide drugs)
+- <a href="https://github.com/Anantha-Rao12/QVAE" target="_blank">QeVAE</a> (2022 - present): A quantum-enhanced variational autoencoder
+- <a href="https://github.com/Anantha-Rao12/QCompiler" target="_blank">QCompiler</a> (2021 - present): A quantum compiler that executes quantum circuits and gates
+- <a href="https://github.com/Anantha-Rao12/QuantChaos" target="_blank">QuantChaos</a> (2021 - present): A introductory set of tutorials and code on the quantum kicked rotor
+- <a href="https://github.com/Anantha-Rao12/DeleMa-detect" target="_blank">DelemaDetect</a> (2020): Deep learning for Malaria detection
+- <a href="https://github.com/Anantha-Rao12/Peptides-against-Cerebral-Malaria" target="_blank">PacMal</a> (2020): Peptides against Cerebral malaria. (insilico modeling of peptide drugs)
 
 
