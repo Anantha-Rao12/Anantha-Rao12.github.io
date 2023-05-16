@@ -7,11 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Greetings! My name is Anantha (Ananth). I am a Physicist (in training), who loves quantum physics and computers. I am currently a final year master's student at [Indian Institute of Science Education and Research (IISER) Pune](https://www.iiserpune.ac.in/), and I will be joining the <a href="https://umdphysics.umd.edu" target="_blank">Physics department</a> at the University of Maryland (College Park) in Fall 2023.
+Greetings! My name is Anantha (Ananth). I am a Physicist (in training), who loves quantum physics and computers. I am currently a final year master's student at [Indian Institute of Science Education and Research (IISER) Pune](https://www.iiserpune.ac.in/), and I will be joining the <a href="https://umdphysics.umd.edu" target="_blank">Physics department</a> at the University of Maryland (College Park) in Fall 2023 as a graduate student.
   
 You can find my research summary <a href="https://raw.githubusercontent.com/Anantha-Rao12/Anantha-Rao12.github.io/master/files/AnanthaRao-WorkSummary.pdf" target="_blank">here</a> and my curriculum vitae (updated Feb 2023) <a href="https://raw.githubusercontent.com/Anantha-Rao12/Anantha-Rao12.github.io/master/files/AnanthaRao_CV.pdf" target="_blank">here</a>.
 
-This website is a place where I share my interests, and insights on various topics. Welcome!
+This website is a place where I share my interests, and insights on various topics. 
+
+Welcome!
 
 ## Research interests
 - Broad research interests: Quantum information, Quantum algorithms, Condensed matter physics, Machine learning and deep learning.
@@ -22,10 +24,10 @@ This website is a place where I share my interests, and insights on various topi
 
 ## Other interests
 - Hackathons (quantum/classical), seminars on trends in academia+industry and problem-solving sessions are some of the events that interest me.
-- Exploring new places, photographing sights, trying street food and learning about history are some of the hobbies that I pursue.
-- Reading books (mostly non-fiction) and writing blog posts about science are some of the ways that I learn and communicate.
-- Playing the guitar and hiking the western ghats are some of the activities that I enjoy.
-- Gardening is something that I’ve recently started but I’m not very good at it yet.
+- Exploring new places🧭, photographing sights📷, trying diverse cuisines 🍱🍚 and learning about history are some of the hobbies that I pursue.
+- Reading books 📚 (mostly non-fiction) and writing blog posts ✍️ about science are some of the ways that I learn and communicate.
+- Playing the guitar 🎸 and hiking the western ghats 🥾⛰ are some of the activities that I enjoy.
+- Gardening 🌳 is something that I’ve recently started but I’m not very good at it yet.
 
 ## Pet projects
 - <a href="https://github.com/Anantha-Rao12/QVAE" target="_blank">QeVAE</a> (2022 - present): A quantum-enhanced variational autoencoder
