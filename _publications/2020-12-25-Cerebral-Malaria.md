@@ -1,7 +1,7 @@
 ---
 title: "Insilico design of peptide inhibitors against Cerebral Malaria"
 collection: publications
-permalink: /publication/2020-12-25-Insilico-design-of-peptide-inhibitors-against-Cerebral-Malaria
+permalink: /projects/2020-12-25-Insilico-design-of-peptide-inhibitors-against-Cerebral-Malaria
 excerpt: 'Computational design of peptides against Cerebral Malaria; A cost-effective deep learning solution for malaria diagnosis'
 venue: 'IISER Pune Repository'
 date: 2020-12-25
