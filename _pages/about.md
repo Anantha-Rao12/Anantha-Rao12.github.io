@@ -37,3 +37,7 @@ Welcome!
 - <a href="https://github.com/Anantha-Rao12/Peptides-against-Cerebral-Malaria" target="_blank">PacMal</a> (2020): Peptides against Cerebral malaria. (insilico modeling of peptide drugs)
 
 
+## Misc 
+- I like and use <a href="https://www.goodreads.com/user/show/114317125-anantha-rao" target="_blank">Goodreads</a> for keeping track of reading lists.
+- I used quora before but abandoned it after aggressive paywalls.
+
