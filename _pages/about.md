@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Greetings! My name is Anantha (Ananth). I am a Physicist (in training), who loves quantum physics and computers. I am currently a final year master's student at [Indian Institute of Science Education and Research (IISER) Pune](https://www.iiserpune.ac.in/), and I will be joining the <a href="https://umdphysics.umd.edu" target="_blank">Physics department</a> at the University of Maryland (College Park) in Fall 2023 as a graduate student.
+🙏 Greetings! My name is Anantha (Ananth). I am a Physicist (in training), who loves quantum physics and computers. I am currently a final year master's student at [Indian Institute of Science Education and Research (IISER) Pune](https://www.iiserpune.ac.in/), and I will be joining the <a href="https://umdphysics.umd.edu" target="_blank">Physics department</a> at the University of Maryland (College Park) in Fall 2023 as a graduate student.
+
+✍️ I write a weekly newsletter on how to get started in research as an undergraduate and also pen my thoughts on my tiny quests in research. You can check it out <a href="https://anantharao.substack.com/" target="_blank">here</a>
   
 You can find my research summary <a href="https://raw.githubusercontent.com/Anantha-Rao12/Anantha-Rao12.github.io/master/files/AnanthaRao-WorkSummary.pdf" target="_blank">here</a> and my curriculum vitae (updated Feb 2023) <a href="https://raw.githubusercontent.com/Anantha-Rao12/Anantha-Rao12.github.io/master/files/AnanthaRao_CV.pdf" target="_blank">here</a>.
 
@@ -19,8 +21,8 @@ Welcome!
 - Broad research interests: Quantum information, Quantum algorithms, Condensed matter physics, Machine learning and deep learning.
 - During my master's thesis, I worked with IBM Research on developing new variational quantum algorithms for [generative machine learning](https://en.wikipedia.org/wiki/Generative_model).  
 - At IISER Pune, I work with <a href="http://www.iiserpune.ac.in/~santh/" target="_blank">Prof MS Santhanam</a> on various problems related to quantum chaos, many-body localization, and quantum search algorithms. 
-- In 2021, I co-founded and led the software team of <a href=“https://curembiotech.com/” target=“_blank”>Curem Biotech</a>, the first student-led startup at IISER Pune.
-- I am an avid supporter of FOSS (Free and Open source software) and have also contributed to various open source organizations (Julia, iGEM and ML4SCI) 
+- In 2021, I co-founded and led the software team of <a href="https://curembiotech.com/" target="_blank">Curem Biotech</a>, the first student-led startup at IISER Pune.
+- An avid supporter of FOSS (Free and Open source software), I also write-code for various open source organizations (Julia, iGEM and ML4SCI) 
 
 ## Other interests
 - Hackathons (quantum/classical), seminars on trends in academia+industry and problem-solving sessions are some of the events that interest me.
