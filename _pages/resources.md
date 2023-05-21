@@ -13,7 +13,7 @@ redirect_from:
 3. <a href="https://qutip.org/" target="_blank"> QuTiP</a>: Quantum Toolbox in Python for simulating the dynamics of open quantum systems. 
 
 ## Science and Youtube
-1. <a href = "https://www.youtube.com/@sixtysymbols" target="_blank">Cool videos</a> about physics and astronomy from the University of Nottingham.
+1. <a href = "https://www.youtube.com/@sixtysymbols" target="_blank">Sixty symbols</a>: Cool videos about physics and astronomy from the University of Nottingham.
 
 ## Machine learning and Quantum Physics
 
