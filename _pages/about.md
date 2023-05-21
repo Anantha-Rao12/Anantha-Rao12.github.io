@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-🙏 Greetings! My name is Anantha (Ananth). I am a Physicist (in training), who loves quantum physics and computers. I am currently a final year master's student at [Indian Institute of Science Education and Research (IISER) Pune](https://www.iiserpune.ac.in/), and I will be joining the <a href="https://umdphysics.umd.edu" target="_blank">Physics department</a> at the University of Maryland (College Park) in Fall 2023 as a graduate student.
+🙏 Greetings! My name is Anantha. I am a Physicist (in training), who loves quantum physics and computers. I am currently a final year master's student at [Indian Institute of Science Education and Research (IISER) Pune](https://www.iiserpune.ac.in/), and I will be joining the <a href="https://umdphysics.umd.edu" target="_blank">Physics department</a> at the University of Maryland (College Park) in Fall 2023 as a graduate student.
 
 ✍️ I write a weekly newsletter on how to get started in research as an undergraduate and also pen my thoughts on my tiny quests in research. You can check it out <a href="https://anantharao.substack.com/" target="_blank">here</a>
   
