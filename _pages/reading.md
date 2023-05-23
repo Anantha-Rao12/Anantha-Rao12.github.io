@@ -4,14 +4,10 @@ title: "Reading"
 permalink: /reading/
 author_profile: true
 redirect_from:
-  - /resume
+  - /books
 ---
 
-> This page is under construction. 
-
-Here, I detail the books I have read, reading, and a wishlist that I would like to read. Recos are always welcome! 
-
-
+Books that I have read, reading, and a wishlist that I would like to read. Recos are always welcome! 
 
 ### Favorite textbooks in Physics
 
@@ -38,4 +34,6 @@ Here, I detail the books I have read, reading, and a wishlist that I would like 
 | How to make friends and influence people | Dale Carnegie | A practical book on building relationships in the business world (seems a bit outdated for today) | TBA | <a href="" target="_blank">US</a>, <a href="https://www.amazon.in/Atomic-Habits-James-Clear/dp/1847941834" target="_blank">India</a> | 
 
 
+### Misc
 
+1. Mohnish Pabrai's <a href="http://www.chaiwithpabrai.com/bookshelf.html" target="_blank">bookshelf</a> has many suggestions on diverse topics.
