@@ -3,29 +3,27 @@ layout: archive
 title: "Resources"
 permalink: /resources/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-## Quantum Simulators and software (non-exhaustive; highly biased)
+### Quantum Simulators and software (non-exhaustive; highly biased)
 1. <a href="https://qctoolkit.in/" target="_blank"> QSim </a>: A Quantum Computer Simulator Toolkit by IISc and CDAC, India.
 2. <a href="https://qiskit.org/" target="_blank"> Qiskit </a>: IBM's open source quantum software development kit for *most* things quantum.
 3. <a href="https://qutip.org/" target="_blank"> QuTiP</a>: Quantum Toolbox in Python for simulating the dynamics of open quantum systems. 
 
-## Science and Youtube
+### Science and Youtube
 1. <a href = "https://www.youtube.com/@sixtysymbols" target="_blank">Sixty symbols</a>: Cool videos about physics and astronomy from the University of Nottingham.
 
-## Machine learning and Quantum Physics
+### Machine learning and Quantum Physics
 
 1. <a href = "https://quantumatlas.umd.edu/" target="_blank">The Quantum Atlas</a> by JQI and IQUIST. 
 2. <a href = "https://drive.google.com/file/d/1D1bL--Zmv0J7n-QEqRvRb3erf5abV1o0/view" target="_blank">The Universe is a generative model</a> by Prof. Lei Wang
 
-## Making visually-appealing figures
+### Making visually-appealing figures
 
 1. <a href="https://matplotlib.org/stable/gallery/color/named_colors.html" target="_blank">Color guide</a> by Matplotlib.
 2. <a href="https://coolors.co/" target="_blank">Coolors</a> - The coor palette generator
 
-## Reading, Writing and Speaking
+### Reading, Writing and Speaking
 1. <a href="http://www.paulgraham.com/articles.html" target="_blank"> Essays </a> by Paul Graham.
 2. <a href = "https://www.youtube.com/watch?v=vtIzMaLkCaM&list=PLT9dtLV29xu8NkipEERDB2I62tLyhTJym&index=1" target="_blank"> Playlist </a> on academic writing by the Leadership Lab at UChicago.
 3. <a href = "http://www.damtp.cam.ac.uk/user/tong/talks/talk.pdf" target="_blank"> How to Make Sure Your Talk Doesn’t Suck </a> by Prof. David Tong.
