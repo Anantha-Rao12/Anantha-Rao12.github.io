@@ -12,6 +12,7 @@ author_profile: true
 
 ### Science and Youtube
 1. <a href = "https://www.youtube.com/@sixtysymbols" target="_blank">Sixty symbols</a>: Cool videos about physics and astronomy from the University of Nottingham.
+2. <a href = "https://pgsc.physics.wisc.edu/wp-content/uploads/2021/04/Expanding_your_Career_from_Physics_to_Industry.pdf" target="_blank">Expanding your Career for Physicists</a> - A guide by researchers at WISC
 
 ### Machine learning and Quantum Physics
 
