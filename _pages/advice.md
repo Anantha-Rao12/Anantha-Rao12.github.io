@@ -11,4 +11,6 @@ This page is a compilation of advice that I have found useful or have been recom
 
 2. Andrej Karpathy's <a href="https://cs.stanford.edu/people/karpathy/advice.html" target="_blank">advice</a> to young students and undergraduates.
 
-3. Jaan Altosaar's <a href="https://jaan.io/how-to-apply-to-grad-school/" target="_blank">comprehensive post</a> outlining the process of applying to graduate schools. 
+3. Jaan Altosaar's <a href="https://jaan.io/how-to-apply-to-grad-school/" target="_blank">comprehensive post</a> outlining the process of applying to graduate schools.
+
+4. Guide for graduate students on <a href="https://raw.githubusercontent.com/Anantha-Rao12/Anantha-Rao12.github.io/master/files/Get-Advisor.pdf" target="_blank">what to look for in a potential advisor</a> (Courtesy : <a href="https://jbhuang0604.github.io/" target="_blank">Prof. Jia-Bin Huang</a>). 
