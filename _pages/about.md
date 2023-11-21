@@ -11,7 +11,7 @@ redirect_from:
 
 ✍️ I write a weekly newsletter on how to get started in research as an undergraduate and also pen my thoughts on my tiny quests in research. You can check it out <a href="https://anantharao.substack.com/" target="_blank">here</a>
   
-You can find my research summary <a href="https://raw.githubusercontent.com/Anantha-Rao12/Anantha-Rao12.github.io/master/files/AnanthaRao-WorkSummary.pdf" target="_blank">here</a> and my curriculum vitae (updated Feb 2023) <a href="https://raw.githubusercontent.com/Anantha-Rao12/Anantha-Rao12.github.io/master/files/AnanthaRao_CV.pdf" target="_blank">here</a>.
+You can find my research summary <a href="https://raw.githubusercontent.com/Anantha-Rao12/Anantha-Rao12.github.io/master/files/AnanthaRao-WorkSummary.pdf" target="_blank">here</a> and my curriculum vitae (updated Nov 2023) <a href="https://raw.githubusercontent.com/Anantha-Rao12/Anantha-Rao12.github.io/master/files/AnanthaRao_CV.pdf" target="_blank">here</a>.
 
 This website is a place where I share my interests, and insights on various topics. 
 
