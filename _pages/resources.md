@@ -18,6 +18,7 @@ author_profile: true
 
 1. <a href = "https://quantumatlas.umd.edu/" target="_blank">The Quantum Atlas</a> by JQI and IQUIST. 
 2. <a href = "https://drive.google.com/file/d/1D1bL--Zmv0J7n-QEqRvRb3erf5abV1o0/view" target="_blank">The Universe is a generative model</a> by Prof. Lei Wang
+3. <a href="https://windowsontheory.org/category/ml-theory-seminar/" target="_blank">ML theory by Prof. Boaz Barak.
 
 ### Making visually-appealing figures
 
