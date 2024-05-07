@@ -5,7 +5,7 @@ permalink: /resources/
 author_profile: true
 ---
 
-### Quantum Simulators and software (non-exhaustive; highly biased)
+### Quantum Software (non-exhaustive; highly biased)
 1. <a href="https://qctoolkit.in/" target="_blank"> QSim </a>: A Quantum Computer Simulator Toolkit by IISc and CDAC, India.
 2. <a href="https://qiskit.org/" target="_blank"> Qiskit </a>: IBM's open source quantum software development kit for *most* things quantum.
 3. <a href="https://qutip.org/" target="_blank"> QuTiP</a>: Quantum Toolbox in Python for simulating the dynamics of open quantum systems. 
@@ -13,6 +13,7 @@ author_profile: true
 ### Science and Youtube
 1. <a href = "https://www.youtube.com/@sixtysymbols" target="_blank">Sixty symbols</a>: Cool videos about physics and astronomy from the University of Nottingham.
 2. <a href = "https://pgsc.physics.wisc.edu/wp-content/uploads/2021/04/Expanding_your_Career_from_Physics_to_Industry.pdf" target="_blank">Expanding your Career for Physicists</a> - A guide by researchers at WISC
+3. <a href="https://lectures.scientific-python.org/" target="_blank">Scientific computing lectures Python</a> - Scipy for science with python. 
 
 ### Machine learning and Quantum Physics
 
