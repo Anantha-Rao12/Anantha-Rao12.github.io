@@ -36,5 +36,4 @@ author_profile: true
 
 ## Exam Preparation
 
-1. <a href = "https://www.reddit.com/r/ToeflAdvice/comments/ybiuf5/just_got_my_toefl_scores/" target="_blank"> Reddit post</a> on how to Ace the TOEFL.
-2. <a href = "https://jaan.io/how-to-ace-the-gre-and-physics-gre/" target="_blank"> Jaan Altosaar's post</a> on preparing for GRE and GRE Physics exams.
+1. <a href = "https://jaan.io/how-to-ace-the-gre-and-physics-gre/" target="_blank"> Jaan Altosaar's post</a> on preparing for GRE and GRE Physics exams.
