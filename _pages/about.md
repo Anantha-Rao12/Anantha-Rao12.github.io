@@ -9,15 +9,15 @@ redirect_from:
 ---
 My name is Anantha Rao. (*pronounced : An-an-tha*, *Kannada*: ಅನಂತ; meaning : *infinity*). 
 
-I am a second-year Ph.D. student at <a href="https://umdphysics.umd.edu" target="_blank">UMD Physics</a> and <a href="https://quics.umd.edu/" target="_blank">QuICS</a>. I am fortunate to be advised by Prof. <a href="https://quics.umd.edu/people/michael-gullans" target="_blank">Michael Gullans</a>. I also closely work with Prof. <a href="https://www.nist.gov/people/justyna-zwolak" target="_blank">Justyna Zwolak</a> at NIST, and Prof. <a href="https://qutech.nl/person/menno-veldhorst/" target="_blank"> Menno Veldohorst</a> at TU Delft. Previously, I received my BS-MS (Physics) from <a href="https://www.iiserpune.ac.in/" target="_blank">IISER Pune</a>, India, working with Prof. <a href="http://www.iiserpune.ac.in/~santh/" target="_blank">M. S. Santhanam</a> at IISER Pune and the IBM-Quantum Research team. My pronouns are He/Him.  
+I am a second-year Ph.D. student at <a href="https://umdphysics.umd.edu" target="_blank">UMD Physics</a> and <a href="https://quics.umd.edu/" target="_blank">QuICS</a>. I am fortunate to be advised by Prof. <a href="https://quics.umd.edu/people/michael-gullans" target="_blank">Michael Gullans</a>. I also closely work with Prof. <a href="https://www.nist.gov/people/justyna-zwolak" target="_blank">Justyna Zwolak</a> at NIST, and Prof. <a href="https://qutech.nl/person/menno-veldhorst/" target="_blank"> Menno Veldohorst's group</a> at TU Delft. Previously, I received my BS-MS (Physics) from <a href="https://www.iiserpune.ac.in/" target="_blank">IISER Pune</a>, India, working with Prof. <a href="http://www.iiserpune.ac.in/~santh/" target="_blank">M. S. Santhanam</a> at IISER Pune and the IBM-Quantum Research team. My pronouns are He/Him.  
 
 My research interests lie in the intersection of Quantum Information and Condensed Matter Physics. My research aims to study many-body quantum systems, understand their behaviour, and harness their non-classical properties to build useful, scalable devices for practical applications. To this end, I employ and develop analytical, numerical, and statistical approaches. Some of the current research projects are along the direction of : 
 
 Theory:
 - Manybody interacting hybrid systems and with dynamic feedback.
-- Semiconductor quantum dot devices (device theory, shuttling quantum information between processors and automaton of experiments).
+- Semiconductor quantum dot devices (device theory, shuttling quantum information between processors and automation of experiments).
 - Characterization, Verification, and Validation of quantum-information processing devices (QCVV)
-- Quantum-enhanced machine learning and tensor networks. 
+- Machine learning (Quantum-enhanced and Classical) and tensor networks. 
 
 This website is where I share my interests, lessons, and insights on various topics. A lot of things that I gain from my research do not end up being part of the final research paper that I write but I would be very happy to talk and learn from the research audience. I strongly believe in science being a collective and collaborative effort, and I look forward to discussing ideas.
 
