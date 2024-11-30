@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Anantha Rao. (*pronounced : uh-n**Open-mid**n-thɑː*, *Kannada*: ಅನಂತ; meaning : *infinity*). 
+My name is Anantha Rao. (*pronounced : uh-nʌn-thɑː*, *Kannada*: ಅನಂತ; meaning : *infinity*). 
 
 I am a second-year Ph.D. student at <a href="https://umdphysics.umd.edu" target="_blank">UMD Physics</a> and <a href="https://quics.umd.edu/" target="_blank">QuICS</a>. I am fortunate to be advised by Prof. <a href="https://quics.umd.edu/people/michael-gullans" target="_blank">Michael Gullans</a>. I also closely work with Prof. <a href="https://www.nist.gov/people/justyna-zwolak" target="_blank">Justyna Zwolak</a> at NIST. Previously, I received my BS-MS (Physics) from <a href="https://www.iiserpune.ac.in/" target="_blank">IISER Pune</a>, India, working with Prof. <a href="http://www.iiserpune.ac.in/~santh/" target="_blank">M. S. Santhanam</a> and the IBM-Quantum Research team.   
 
