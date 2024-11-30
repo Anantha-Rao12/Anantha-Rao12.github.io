@@ -7,6 +7,15 @@ redirect_from:
   - /resume
 ---
 
+ITL Science Day @ NIST, Gaithersburg
+
+Silicon Electronics Workshop (2024) @ Davos, Switzerland
+- Contributed talk on "Autonomous virtualization system for quantum dot devices"
+
+Robust Quantum Simulation (RQS) Workshop (2024) @ Princeton, NJ
+
+Quantum Computing Program Reviews (QCPR)
+
 Conference on Nonlinear Systems and Dynamics (2022)
 - Presenting my work on time-series analysis of NMR signals and machine learning techniques applied to echo-responses.
 
