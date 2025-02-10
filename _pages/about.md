@@ -22,7 +22,7 @@ I share my interests, cool thoughts, and insights on various topics on this webs
 If you are interested in my CV (updated Nov 2024) <a href="https://raw.githubusercontent.com/Anantha-Rao12/Anantha-Rao12.github.io/master/files/AnanthaRao_CV.pdf" target="_blank">here</a> it is!
 
 ## Research Highlights
-- MAViS is out! Submitted to Physical Review X (<a href="https://arxiv.org/abs/2411.12516" target="_blank">arxiv2411.12516</a>). Audio podcast <a href="https://drive.google.com/file/d/1lBeetKCOfpPChbX4Ek0EXn9hq462D1DS/view?usp=drive_link" target="_blank">link</a>. 
+- MAViS is out! Accepted at Physical Review X (<a href="https://arxiv.org/abs/2411.12516" target="_blank">arxiv2411.12516</a>). Audio podcast <a href="https://drive.google.com/file/d/1lBeetKCOfpPChbX4Ek0EXn9hq462D1DS/view?usp=drive_link" target="_blank">link</a>. 
 - Contributed talk at Silicon Quantum Electronics (SiQEW) 2024. 
 - Conducted a tutorial on learning electron configurations through NMR spectroscopy with machine learning at Brown AI Winter school (<a href="https://www.youtube.com/watch?v=pmrNGed_Mwo" target="_blank">YT link</a>). 
 - During my master's thesis, I worked with IBM Research on developing new variational quantum algorithms for [generative machine learning](https://en.wikipedia.org/wiki/Generative_model). 
