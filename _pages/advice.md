@@ -11,6 +11,7 @@ This page is a compilation of advice that I have found useful or have been recom
 
 1.  Nobel laureate Steven Weinberg penned <a href="https://www.nature.com/articles/426389a" target="_blank"> four golden lessons </a> for students at the start of their scientific careers : (1) Start doing research early and learn as you go. (2) Go for the messy problems where creative work can be done. (3) Forgive yourself for wasting time on unsolvable or unimportant problems. (4) Enjoy what you are doing and learn from the history of science.
 2.  While attending a graduate council meeting, I learnt from a Dean - graduate students do a lot of things but do not get recognition for them. We researchers come from varied backgrounds and accomplish heaps and bounds. However, we fail to communicate the importance of our accomplishments, which is what matters to future-employers and funding agencies: those that control our livelihoods. Science outreach and communication must not be ignored.
+3.  <a href="https://web.stanford.edu/~fukamit/schwartz-2008.pdf" target="_blank"> The importance of stupidity in scientific research</a>
 
 ### Graduate school 
 1. Karpathy's <a href="https://karpathy.github.io/2016/09/07/phd/" target="_blank">PhD Survival guide</a>
