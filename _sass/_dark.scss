@@ -223,4 +223,82 @@ body.dark-mode {
     border-left: 4px solid #bb86fc;
     color: #e0e0e0;
   }
+
+  /* Custom styled divs (like news sections) */
+  div[style*="background-color: #f8f9fa"] {
+    background-color: #2d2d2d !important;
+    border-left: 4px solid #bb86fc !important;
+    color: #e0e0e0 !important;
+
+    h4 {
+      color: #bb86fc !important;
+    }
+
+    ul li {
+      color: #e0e0e0 !important;
+    }
+
+    a {
+      color: #bb86fc !important;
+      
+      &:hover {
+        color: #cf6679 !important;
+      }
+    }
+  }
+
+  /* Skills grid cards */
+  div[style*="border: 1px solid #ddd"] {
+    background-color: #2d2d2d !important;
+    border: 1px solid #444 !important;
+    color: #e0e0e0 !important;
+
+    h4 {
+      color: #bb86fc !important;
+    }
+
+    p {
+      color: #e0e0e0 !important;
+    }
+  }
+
+  /* Collaborations section */
+  div[style*="background-color: #f8f9fa"][style*="border-radius: 8px"] {
+    background-color: #2d2d2d !important;
+    color: #e0e0e0 !important;
+
+    strong {
+      color: #bb86fc !important;
+    }
+  }
+
+  /* News article cards */
+  div[style*="display: flex"][style*="background-color: #f8f9fa"] {
+    background-color: #2d2d2d !important;
+    color: #e0e0e0 !important;
+
+    h3 {
+      color: #e0e0e0 !important;
+      
+      a {
+        color: #bb86fc !important;
+        
+        &:hover {
+          color: #cf6679 !important;
+        }
+      }
+    }
+
+    p {
+      color: #e0e0e0 !important;
+      
+      &[style*="color: #6c757d"] {
+        color: #aaa !important;
+      }
+    }
+
+    img {
+      border: 1px solid #444 !important;
+    }
+  }
 }
