@@ -304,13 +304,14 @@ body.dark-mode {
 }
 
 /* Theme toggle button positioning */
-.greedy-nav .visible-links {
+.masthead__inner-wrap {
   display: flex;
   align-items: center;
+  justify-content: space-between;
 }
 
-.masthead__menu-item--right {
-  margin-left: auto !important;
+.masthead__menu {
+  flex: 1;
 }
 
 #theme-toggle {
@@ -320,6 +321,7 @@ body.dark-mode {
   padding: 8px 12px !important;
   font-size: 14px !important;
   transition: all 0.3s ease !important;
+  margin-left: 15px !important;
   
   &:hover {
     background-color: rgba(187, 134, 252, 0.1) !important;
