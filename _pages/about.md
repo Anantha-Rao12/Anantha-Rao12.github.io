@@ -14,21 +14,12 @@ I am a Ph.D. candidate at <a href="https://umdphysics.umd.edu" target="_blank">U
 <div style="background-color: #f8f9fa; border-left: 4px solid #007bff; padding: 15px; margin: 20px 0;">
 <h4 style="margin-top: 0; color: #007bff;">🎉 Latest News</h4>
 <ul style="margin-bottom: 0;">
-<li><strong>Oct '25:</strong> Oral talk at Silicon Quantum Electronics (SiQEW) 2025 on spin shuttling!</li>
-<li><strong>Feb '25:</strong> MAViS accepted at Physical Review X! <a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021034" target="_blank">(Read the paper </a> | <a href="https://drive.google.com/file/d/1lBeetKCOfpPChbX4Ek0EXn9hq462D1DS/view?usp=drive_link" target="_blank"> listen to it !)</a></li>
-<li><strong>Aug '24:</strong> Oral talk at Silicon Quantum Electronics (SiQEW) 2024</li>
+<li><strong>Oct '25:</strong> Accepted talk at Silicon Quantum Electronics (SiQEW) 2025 on spin shuttling.</li>
+<li><strong>Feb '25:</strong> MAViS accepted at Physical Review X! (<a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021034" target="_blank">Read it! |</a><a href="https://drive.google.com/file/d/1lBeetKCOfpPChbX4Ek0EXn9hq462D1DS/view?usp=drive_link" target="_blank"> listen to it!</a>)</li>
+<li><strong>Aug '24:</strong> Accepted talk at Silicon Quantum Electronics (SiQEW) 2024 on virtualization.</li>
 <li><strong>Spring '24:</strong> Tutorial on learning electron configurations via NMR at Brown AI Winter School <a href="https://www.youtube.com/watch?v=pmrNGed_Mwo" target="_blank">(YouTube)</a></li>
 </ul>
 </div>   
-
-## Research Highlights
-- **MAViS Research**: Accepted at Physical Review X (<a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021034" target="_blank">arxiv2411.12516</a>). Featured in audio podcast <a href="https://drive.google.com/file/d/1lBeetKCOfpPChbX4Ek0EXn9hq462D1DS/view?usp=drive_link" target="_blank">discussion</a>
-- **Conference Presentations**: Contributed talk at Silicon Quantum Electronics (SiQEW) 2024
-- **Educational Outreach**: Tutorial presenter at Brown AI Winter School on ML for quantum systems (<a href="https://www.youtube.com/watch?v=pmrNGed_Mwo" target="_blank">YouTube</a>)
-- **Industry Collaboration**: Worked with IBM Quantum Research team on variational quantum algorithms for [generative machine learning](https://en.wikipedia.org/wiki/Generative_model)
-- **Academic Research**: Collaborated with <a href="http://www.iiserpune.ac.in/~santh/" target="_blank">Prof MS Santhanam</a> on quantum chaos, many-body localization, and quantum search algorithms
-- **Entrepreneurship**: Co-founded <a href="https://curembiotech.com/" target="_blank">Curem Biotech</a>, first student-led startup at IISER Pune (raised $50k+ in funding)
-- **Open Source Contributions**: Active contributor to Julia, iGEM, and ML4SCI organizations
 
 ## Featured in the News
 
@@ -90,6 +81,13 @@ I share my interests, cool thoughts, and insights on various topics on this webs
 
 If you are interested in my CV (updated Nov 2024) <a href="https://raw.githubusercontent.com/Anantha-Rao12/Anantha-Rao12.github.io/master/files/AnanthaRao_CV.pdf" target="_blank">here</a> it is!
 
+## Research Highlights
+- **MAViS**: Accepted at Physical Review X (<a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021034" target="_blank">PhysRevX.15.021034</a>), (<a href="https://drive.google.com/file/d/1lBeetKCOfpPChbX4Ek0EXn9hq462D1DS/view?usp=drive_link" target="_blank">Audio podcast</a>)
+- **Conferences**: Contributed talk at Silicon Quantum Electronics (SiQEW) 2024
+- **Open Source Contributions**: Active contributor to Julia, iGEM, and ML4SCI organizations.
+- **Educational Outreach**: Tutorial at Brown AI Winter School on ML for quantum systems (<a href="https://www.youtube.com/watch?v=pmrNGed_Mwo" target="_blank">YouTube</a>)
+- **Industry**: Worked with IBM Quantum Research on quantum algorithms for [generative machine learning](https://en.wikipedia.org/wiki/Generative_model)
+
 ## Technical Skills & Expertise
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 20px 0;">
@@ -114,9 +112,9 @@ If you are interested in my CV (updated Nov 2024) <a href="https://raw.githubuse
 ## Selected Projects
 
 ### Research & Development
-- **<a href="https://github.com/Anantha-Rao12/QVAE" target="_blank">QeVAE</a>** (2022 - present): A quantum-enhanced variational autoencoder for generative modeling
-- **<a href="https://github.com/Anantha-Rao12/QCompiler" target="_blank">QCompiler</a>** (2021 - present): A quantum compiler that executes quantum circuits and gates
-- **<a href="https://github.com/Anantha-Rao12/QuantChaos" target="_blank">QuantChaos</a>** (2021 - present): Tutorials and code on the quantum kicked rotor
+- **<a href="https://github.com/Anantha-Rao12/QVAE" target="_blank">QeVAE</a>** (2022): A quantum-enhanced variational autoencoder for generative modeling
+- **<a href="https://github.com/Anantha-Rao12/QCompiler" target="_blank">QCompiler</a>** (2021): A quantum compiler that executes quantum circuits and gates
+- **<a href="https://github.com/Anantha-Rao12/QuantChaos" target="_blank">QuantChaos</a>** (2021): Tutorials and code on the quantum kicked rotor
 
 ### Applied ML & Biotech
 - **<a href="https://github.com/Anantha-Rao12/DeleMa-detect" target="_blank">DelemaDetect</a>** (2020): Deep learning for malaria detection in blood smears
@@ -126,6 +124,7 @@ If you are interested in my CV (updated Nov 2024) <a href="https://raw.githubuse
 - **Reading**: I maintain my reading lists on <a href="https://www.goodreads.com/user/show/114317125-anantha-rao" target="_blank">Goodreads</a> and enjoy both technical and fiction literature
 - **Science Communication**: I believe in making complex quantum concepts accessible to broader audiences
 - **Open Source Advocacy**: Contributing to the global scientific computing community through free and open-source software
+- **Entrepreneurship**: Co-founded <a href="https://curembiotech.com/" target="_blank">Curem Biotech</a>, first student-led startup at IISER Pune (raised $50k+ in funding).
 
 
 
