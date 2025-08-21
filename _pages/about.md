@@ -21,45 +21,6 @@ I am a Ph.D. candidate at <a href="https://umdphysics.umd.edu" target="_blank">U
 </ul>
 </div>   
 
-## Research Interests
-
-My research lies at the intersection of **Quantum Information** and **Condensed Matter Physics**. I study many-body quantum systems to understand their behavior and harness their non-classical properties for building useful, scalable quantum devices.
-
-### Current Research Focus
-- **Quantum Many-Body Systems with Feedback**: Understanding and controlling complex quantum systems through feedback mechanisms.
-- **Semiconductor Quantum Dot Devices**: Device theory, quantum information shuttling between processors, and experimental automation.
-- **Quantum Characterization, Verification & Validation (QCVV)**: Developing methods to validate quantum information processing devices.
-- **Machine Learning for Quantum Systems**: Both quantum-enhanced classical ML and classical ML for quantum problems.
-- **Tensor Networks**: Advanced numerical methods for quantum many-body systems.
-
-### Methodological Approach
-I am a theoretician, and I like to use and develop **analytical**, and **numerical** approaches to solve complex puzzles. My work spans theoretical development, computational implementation, and experimental collaboration. 
-
-I share my interests, cool thoughts, and insights on various topics on this website. A lot of things that I gain from my research do not end up being part of the final research papers I write, but I would be very happy to talk to and learn from the research audience. I strongly believe in science being a collective and collaborative effort, and I look forward to discussing ideas.
-
-If you are interested in my CV (updated Nov 2024) <a href="https://raw.githubusercontent.com/Anantha-Rao12/Anantha-Rao12.github.io/master/files/AnanthaRao_CV.pdf" target="_blank">here</a> it is!
-
-## Technical Skills & Expertise
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 20px 0;">
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px;">
-<h4 style="color: #007bff; margin-top: 0;">⚛️ Quantum Computing</h4>
-<p>Qiskit, QuTiP, Stim,<br>Quantum circuits, VQAs<br>Quantum machine learning</p>
-</div>
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px;">
-<h4 style="color: #28a745; margin-top: 0;">🧮 Scientific Computing</h4>
-<p>Python, Julia, MATLAB<br>NumPy, SciPy, iTensor<br>JAX, QuTiP</p>
-</div>
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px;">
-<h4 style="color: #ffc107; margin-top: 0;">🤖 Machine Learning</h4>
-<p>PyTorch, TensorFlow, Keras<br>Neural networks, VAEs<br>Quantum-enhanced ML</p>
-</div>
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px;">
-<h4 style="color: #dc3545; margin-top: 0;">💻 Software Development</h4>
-<p>Git, Linux/Unix<br>High-performance computing<br>Open-source contributions</p>
-</div>
-</div>
-
 ## Research Highlights
 - **MAViS Research**: Accepted at Physical Review X (<a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021034" target="_blank">arxiv2411.12516</a>). Featured in audio podcast <a href="https://drive.google.com/file/d/1lBeetKCOfpPChbX4Ek0EXn9hq462D1DS/view?usp=drive_link" target="_blank">discussion</a>
 - **Conference Presentations**: Contributed talk at Silicon Quantum Electronics (SiQEW) 2024
@@ -69,7 +30,7 @@ If you are interested in my CV (updated Nov 2024) <a href="https://raw.githubuse
 - **Entrepreneurship**: Co-founded <a href="https://curembiotech.com/" target="_blank">Curem Biotech</a>, first student-led startup at IISER Pune (raised $50k+ in funding)
 - **Open Source Contributions**: Active contributor to Julia, iGEM, and ML4SCI organizations
 
-## Previously in the News
+## Featured in the News
 
 <div style="margin: 30px 0;">
 
@@ -111,16 +72,60 @@ Featured profile on Anantha's journey from India's tech hub to UMD's "Capital of
 
 </div>
 
+## Research Interests
 
-## Pet projects
-- <a href="https://github.com/Anantha-Rao12/QVAE" target="_blank">QeVAE</a> (2022 - present): A quantum-enhanced variational autoencoder
-- <a href="https://github.com/Anantha-Rao12/QCompiler" target="_blank">QCompiler</a> (2021 - present): A quantum compiler that executes quantum circuits and gates
-- <a href="https://github.com/Anantha-Rao12/QuantChaos" target="_blank">QuantChaos</a> (2021 - present): An introductory set of tutorials and code on the quantum kicked rotor
-- <a href="https://github.com/Anantha-Rao12/DeleMa-detect" target="_blank">DelemaDetect</a> (2020): Deep learning for Malaria detection
-- <a href="https://github.com/Anantha-Rao12/Peptides-against-Cerebral-Malaria" target="_blank">PacMal</a> (2020): Peptides against Cerebral malaria. (insilico modeling of peptide drugs)
+My research lies at the intersection of **Quantum Information** and **Condensed Matter Physics**. I study many-body quantum systems to understand their behavior and harness their non-classical properties for building useful, scalable quantum devices.
+
+### Current Research Focus
+- **Quantum Many-Body Systems with Feedback**: Understanding and controlling complex quantum systems through feedback mechanisms.
+- **Semiconductor Quantum Dot Devices**: Device theory, quantum information shuttling between processors, and experimental automation.
+- **Quantum Characterization, Verification & Validation (QCVV)**: Developing methods to validate quantum information processing devices.
+- **Machine Learning for Quantum Systems**: Both quantum-enhanced classical ML and classical ML for quantum problems.
+- **Tensor Networks**: Advanced numerical methods for quantum many-body systems.
+
+### Methodological Approach
+I am a theoretician, and I like to use and develop **analytical**, and **numerical** approaches to solve complex puzzles. My work spans theoretical development, computational implementation, and experimental collaboration. 
+
+I share my interests, cool thoughts, and insights on various topics on this website. A lot of things that I gain from my research do not end up being part of the final research papers I write, but I would be very happy to talk to and learn from the research audience. I strongly believe in science being a collective and collaborative effort, and I look forward to discussing ideas.
+
+If you are interested in my CV (updated Nov 2024) <a href="https://raw.githubusercontent.com/Anantha-Rao12/Anantha-Rao12.github.io/master/files/AnanthaRao_CV.pdf" target="_blank">here</a> it is!
+
+## Technical Skills & Expertise
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 20px 0;">
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px;">
+<h4 style="color: #007bff; margin-top: 0;">⚛️ Quantum Computing</h4>
+<p>Qiskit, QuTiP, Stim,<br>Quantum circuits, VQAs<br>Quantum machine learning</p>
+</div>
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px;">
+<h4 style="color: #28a745; margin-top: 0;">🧮 Scientific Computing</h4>
+<p>Python, Julia, MATLAB<br>NumPy, SciPy, iTensor<br>JAX, QuTiP</p>
+</div>
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px;">
+<h4 style="color: #ffc107; margin-top: 0;">🤖 Machine Learning</h4>
+<p>PyTorch, TensorFlow, Keras<br>Neural networks, VAEs<br>Quantum-enhanced ML</p>
+</div>
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px;">
+<h4 style="color: #dc3545; margin-top: 0;">💻 Software Development</h4>
+<p>Git, Linux/Unix<br>High-performance computing<br>Open-source contributions</p>
+</div>
+</div>
+
+## Selected Projects
+
+### Research & Development
+- **<a href="https://github.com/Anantha-Rao12/QVAE" target="_blank">QeVAE</a>** (2022 - present): A quantum-enhanced variational autoencoder for generative modeling
+- **<a href="https://github.com/Anantha-Rao12/QCompiler" target="_blank">QCompiler</a>** (2021 - present): A quantum compiler that executes quantum circuits and gates
+- **<a href="https://github.com/Anantha-Rao12/QuantChaos" target="_blank">QuantChaos</a>** (2021 - present): Tutorials and code on the quantum kicked rotor
+
+### Applied ML & Biotech
+- **<a href="https://github.com/Anantha-Rao12/DeleMa-detect" target="_blank">DelemaDetect</a>** (2020): Deep learning for malaria detection in blood smears
+- **<a href="https://github.com/Anantha-Rao12/Peptides-against-Cerebral-Malaria" target="_blank">PacMal</a>** (2020): In-silico modeling of peptide drugs against cerebral malaria
+
+## Personal Interests
+- **Reading**: I maintain my reading lists on <a href="https://www.goodreads.com/user/show/114317125-anantha-rao" target="_blank">Goodreads</a> and enjoy both technical and fiction literature
+- **Science Communication**: I believe in making complex quantum concepts accessible to broader audiences
+- **Open Source Advocacy**: Contributing to the global scientific computing community through free and open-source software
 
 
-## Misc 
-- I like and use <a href="https://www.goodreads.com/user/show/114317125-anantha-rao" target="_blank">Goodreads</a> to keep track of my reading lists.
-- I previously used Quora but abandoned it after aggressive paywalls.
 
