@@ -1,31 +1,78 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+# Anantha Rao's Academic Website
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+This is the repository for my personal academic website hosted at [anantha-rao12.github.io](https://anantha-rao12.github.io). 
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+The website is built using Jekyll and GitHub Pages, originally based on the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) which itself is derived from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
 
-# Instructions
+## Features
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+- **Dark Mode Toggle**: Complete dark/light theme switching with sun/moon icons
+- **Responsive Design**: Works seamlessly on desktop and mobile devices
+- **Academic Focus**: Organized sections for publications, talks, projects, and teaching
+- **Custom Favicon**: SVG favicon support for modern browsers
 
-See more info at https://academicpages.github.io/
+## Recent Updates (August 2025)
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+### Dark Mode Implementation
+- Added comprehensive dark mode CSS with uniform styling across all elements
+- Created theme toggle button with Font Awesome sun/moon icons
+- Implemented JavaScript for theme switching with local storage persistence
+- Enhanced navigation bar styling for both light and dark modes
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+### Technical Improvements
+- Added favicon.svg support for better branding
+- Cleaned up repository by removing unnecessary theme files
+- Updated .gitignore to exclude vendor dependencies
+- Improved overall code organization and maintainability
 
-# Changelog -- bugfixes and enhancements
+### Files Modified
+- `_sass/_dark.scss` - New dark mode styles
+- `assets/js/theme-toggle.js` - Theme switching functionality
+- `_includes/head.html` - Added favicon support
+- `_includes/masthead.html` - Added theme toggle button
+- `_includes/scripts.html` - Included theme toggle script
+- `assets/css/main.scss` - Imported dark mode styles
 
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
+## Running Locally
 
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+To run this website locally for development:
+
+```bash
+# Install dependencies
+bundle install --path vendor/bundle
+
+# Start the development server
+bundle exec jekyll serve --livereload
+
+# Visit http://127.0.0.1:4000 in your browser
+```
+
+## Project Structure
+
+```
+├── _config.yml          # Site configuration
+├── _data/               # Data files (navigation, authors)
+├── _includes/           # Reusable HTML components
+├── _layouts/            # Page layouts
+├── _pages/              # Main pages (about, publications, etc.)
+├── _projects/           # Project collection
+├── _publications/       # Publications collection
+├── _sass/               # Sass stylesheets
+├── _talks/              # Talks collection
+├── _teaching/           # Teaching collection
+├── assets/              # CSS, JS, and other assets
+├── files/               # Downloadable files (PDFs, etc.)
+├── images/              # Image assets
+├── markdown_generator/  # Scripts for generating markdown from TSV
+└── talkmap/             # Interactive talk map functionality
+```
+
+## Development Notes
+
+The website uses Jekyll for static site generation and is automatically deployed via GitHub Pages. Local development requires Ruby and Bundler.
+
+For generating content from structured data, see the `markdown_generator/` directory which contains Jupyter notebooks and Python scripts for converting TSV files to markdown pages.
+
+## License
+
+This project is based on the Academic Pages template, which is derived from the Minimal Mistakes Jekyll Theme (© 2016 Michael Rose, MIT License).
