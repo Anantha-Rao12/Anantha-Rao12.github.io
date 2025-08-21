@@ -8,27 +8,88 @@ redirect_from:
 ---
 My name is Anantha. (*pronounced : uh-nun-thɑː*, *Kannada*: ಅನಂತ; meaning: *infinity*). 
 
-I am a second-year Ph.D. student at <a href="https://umdphysics.umd.edu" target="_blank">UMD Physics</a> and <a href="https://quics.umd.edu/" target="_blank">QuICS</a>. I am fortunate to be advised by Prof. <a href="https://quics.umd.edu/people/michael-gullans" target="_blank">Michael Gullans</a>. I also closely work with Prof. <a href="https://www.nist.gov/people/justyna-zwolak" target="_blank">Justyna Zwolak</a> at NIST. Previously, I received my BS-MS (Physics) from <a href="https://www.iiserpune.ac.in/" target="_blank">IISER Pune</a>, India, working with Prof. <a href="http://www.iiserpune.ac.in/~santh/" target="_blank">M. S. Santhanam</a> and the IBM-Quantum Research team.   
+I am a third-year Ph.D. student at <a href="https://umdphysics.umd.edu" target="_blank">UMD Physics</a> and <a href="https://quics.umd.edu/" target="_blank">QuICS</a>. I am fortunate to be advised by Prof. <a href="https://quics.umd.edu/people/michael-gullans" target="_blank">Michael Gullans</a>. I also closely work with Prof. <a href="https://www.nist.gov/people/justyna-zwolak" target="_blank">Justyna Zwolak</a> at NIST. Previously, I received my BS-MS (Physics) from <a href="https://www.iiserpune.ac.in/" target="_blank">IISER Pune</a>, India, working with Prof. <a href="http://www.iiserpune.ac.in/~santh/" target="_blank">M. S. Santhanam</a> and the IBM-Quantum Research team.   
 
-My research interests lie in the intersection of Quantum Information and Condensed Matter Physics. My research aims to study many-body quantum systems, understand their behavior, and harness their non-classical properties to build useful, scalable devices for practical applications. The focus of my Ph.D research has primarily been on gaining a deeper understanding of quantum many-body systems with feedback. To solve these puzzles, I employ and develop analytical, numerical, and statistical approaches. Some of my current research projects are on: 
+## Recent News & Updates
+<div style="background-color: #f8f9fa; border-left: 4px solid #007bff; padding: 15px; margin: 20px 0;">
+<h4 style="margin-top: 0; color: #007bff;">🎉 Latest Achievements</h4>
+<ul style="margin-bottom: 0;">
+<li><strong>Oct '25:</strong> Oral talk at Silicon Quantum Electronics (SiQEW) 2025</li>
+<li><strong>Feb '25:</strong> MAViS accepted at Physical Review X! <a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021034" target="_blank">(Read the paper </a> | <a href="https://drive.google.com/file/d/1lBeetKCOfpPChbX4Ek0EXn9hq462D1DS/view?usp=drive_link" target="_blank"> listen to it !)</a></li>
+<li><strong>Aug '24:</strong> Oral talk at Silicon Quantum Electronics (SiQEW) 2024</li>
+<li><strong>Spring '24:</strong> Tutorial on learning electron configurations via NMR at Brown AI Winter School <a href="https://www.youtube.com/watch?v=pmrNGed_Mwo" target="_blank">(YouTube)</a></li>
+</ul>
+</div>   
 
-- Manybody interacting hybrid systems with dynamic feedback.
-- Semiconductor quantum dot devices (device theory, shuttling quantum information between processors, and automation of experiments).
-- Characterization, Verification, and Validation of quantum-information processing devices (QCVV)
-- Machine learning (Quantum-enhanced and Classical) and tensor networks. 
+## Research Interests
+
+My research lies at the intersection of **Quantum Information** and **Condensed Matter Physics**. I study many-body quantum systems to understand their behavior and harness their non-classical properties for building useful, scalable quantum devices.
+
+### Current Research Focus
+- **Quantum Many-Body Systems with Feedback**: Understanding and controlling complex quantum systems through dynamic feedback mechanisms
+- **Semiconductor Quantum Dot Devices**: Device theory, quantum information shuttling between processors, and experimental automation
+- **Quantum Characterization, Verification & Validation (QCVV)**: Developing methods to validate quantum information processing devices
+- **Machine Learning for Quantum Systems**: Both quantum-enhanced classical ML and classical ML for quantum problems
+- **Tensor Networks**: Advanced numerical methods for quantum many-body systems
+
+### Methodological Approach
+I am a theoretician, and I like to use and develop **analytical**, and **numerical** approaches to solve complex puzzles. My work spans theoretical development, computational implementation, and experimental collaboration. 
 
 I share my interests, cool thoughts, and insights on various topics on this website. A lot of things that I gain from my research do not end up being part of the final research papers I write, but I would be very happy to talk to and learn from the research audience. I strongly believe in science being a collective and collaborative effort, and I look forward to discussing ideas.
 
 If you are interested in my CV (updated Nov 2024) <a href="https://raw.githubusercontent.com/Anantha-Rao12/Anantha-Rao12.github.io/master/files/AnanthaRao_CV.pdf" target="_blank">here</a> it is!
 
+## Technical Skills & Expertise
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 20px 0;">
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px;">
+<h4 style="color: #007bff; margin-top: 0;">⚛️ Quantum Computing</h4>
+<p>Qiskit, QuTiP, Stim,<br>Quantum circuits, VQAs<br>Quantum machine learning</p>
+</div>
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px;">
+<h4 style="color: #28a745; margin-top: 0;">🧮 Scientific Computing</h4>
+<p>Python, Julia, MATLAB<br>NumPy, SciPy, iTensor<br>JAX, QuTiP</p>
+</div>
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px;">
+<h4 style="color: #ffc107; margin-top: 0;">🤖 Machine Learning</h4>
+<p>PyTorch, TensorFlow, Keras<br>Neural networks, VAEs<br>Quantum-enhanced ML</p>
+</div>
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px;">
+<h4 style="color: #dc3545; margin-top: 0;">💻 Software Development</h4>
+<p>Git, Linux/Unix<br>High-performance computing<br>Open-source contributions</p>
+</div>
+</div>
+
 ## Research Highlights
-- MAViS is out! Accepted at Physical Review X (<a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021034" target="_blank">arxiv2411.12516</a>). Audio podcast <a href="https://drive.google.com/file/d/1lBeetKCOfpPChbX4Ek0EXn9hq462D1DS/view?usp=drive_link" target="_blank">link</a>. 
-- Contributed talk at Silicon Quantum Electronics (SiQEW) 2024. 
-- Conducted a tutorial on learning electron configurations through NMR spectroscopy with machine learning at Brown AI Winter school (<a href="https://www.youtube.com/watch?v=pmrNGed_Mwo" target="_blank">YT link</a>). 
-- During my master's thesis, I worked with IBM Research on developing new variational quantum algorithms for [generative machine learning](https://en.wikipedia.org/wiki/Generative_model). 
-- At IISER Pune, I worked with <a href="http://www.iiserpune.ac.in/~santh/" target="_blank">Prof MS Santhanam</a> on various problems related to quantum chaos, many-body localization, and quantum search algorithms. 
-- In 2021, I co-founded and led the software team of <a href="https://curembiotech.com/" target="_blank">Curem Biotech</a>, the first student-led startup at IISER Pune (We raised over $50k).
-- An avid supporter of FOSS (Free and Open source software), I also write code for various open-source organizations (Julia, iGEM, and ML4SCI) 
+- **MAViS Research**: Accepted at Physical Review X (<a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021034" target="_blank">arxiv2411.12516</a>). Featured in audio podcast <a href="https://drive.google.com/file/d/1lBeetKCOfpPChbX4Ek0EXn9hq462D1DS/view?usp=drive_link" target="_blank">discussion</a>
+- **Conference Presentations**: Contributed talk at Silicon Quantum Electronics (SiQEW) 2024
+- **Educational Outreach**: Tutorial presenter at Brown AI Winter School on ML for quantum systems (<a href="https://www.youtube.com/watch?v=pmrNGed_Mwo" target="_blank">YouTube</a>)
+- **Industry Collaboration**: Worked with IBM Quantum Research team on variational quantum algorithms for [generative machine learning](https://en.wikipedia.org/wiki/Generative_model)
+- **Academic Research**: Collaborated with <a href="http://www.iiserpune.ac.in/~santh/" target="_blank">Prof MS Santhanam</a> on quantum chaos, many-body localization, and quantum search algorithms
+- **Entrepreneurship**: Co-founded <a href="https://curembiotech.com/" target="_blank">Curem Biotech</a>, first student-led startup at IISER Pune (raised $50k+ in funding)
+- **Open Source Contributions**: Active contributor to Julia, iGEM, and ML4SCI organizations
+
+## Collaborations & Affiliations
+<div style="background-color: #f8f9fa; border-radius: 8px; padding: 20px; margin: 20px 0;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px;">
+<div style="text-align: center;">
+<strong>🏛️ Current Affiliation</strong><br>
+University of Maryland<br>
+QuICS (Joint Center for Quantum Information and Computer Science)
+</div>
+<div style="text-align: center;">
+<strong>🔬 Research Collaboration</strong><br>
+National Institute of Standards and Technology (NIST)<br>
+Delft University of Technology (TU Delft) <br>
+University of Rochester
+</div>
+<div style="text-align: center;">
+<strong>🌟 Open Source</strong><br>
+Julia, iGEM, ML4SCI<br>
+Free & Open Source Software Advocate
+</div>
+</div>
+</div> 
 
 ## Pet projects
 - <a href="https://github.com/Anantha-Rao12/QVAE" target="_blank">QeVAE</a> (2022 - present): A quantum-enhanced variational autoencoder

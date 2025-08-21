@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Anantha S Rao"
   avatar           : "Ananth.jpg"
-  bio              : "Ph.D Physics UMD"
+  bio              : "PhD Student in Quantum Physics | UMD Physics & QuICS"
   location         : "College Park, Maryland"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=hEi6Zq8AAAAJ"
   email            :
-  researchgate     :  
+  researchgate     :  # Add if you have one
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         : "anantha-s-rao"
-  orcid            : 
+  orcid            : # Add your ORCID ID here if you have one 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
