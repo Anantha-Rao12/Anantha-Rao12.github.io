@@ -1,0 +1,226 @@
+/* Dark mode styles */
+body.dark-mode {
+  background-color: #1a1a1a;
+  color: #e0e0e0;
+
+  /* General links */
+  a {
+    color: #bb86fc;
+    
+    &:hover {
+      color: #cf6679;
+    }
+  }
+
+  /* Masthead (top navigation) */
+  .masthead {
+    background-color: #2d2d2d !important;
+    border-bottom: 1px solid #444;
+
+    .masthead__menu-item a {
+      color: #e0e0e0 !important;
+      
+      &:hover {
+        color: #bb86fc !important;
+      }
+    }
+
+    .greedy-nav {
+      background-color: #2d2d2d !important;
+
+      a {
+        color: #e0e0e0 !important;
+        
+        &:hover {
+          color: #bb86fc !important;
+        }
+      }
+
+      .visible-links a {
+        color: #e0e0e0 !important;
+        
+        &:hover {
+          color: #bb86fc !important;
+        }
+      }
+
+      .hidden-links {
+        background-color: #2d2d2d !important;
+        border: 1px solid #444 !important;
+
+        a {
+          color: #e0e0e0 !important;
+          border-bottom: 1px solid #444 !important;
+          
+          &:hover {
+            background-color: #404040 !important;
+            color: #bb86fc !important;
+          }
+        }
+      }
+
+      button {
+        background-color: #2d2d2d !important;
+        color: #e0e0e0 !important;
+        border: 1px solid #444 !important;
+
+        .navicon {
+          background-color: #e0e0e0 !important;
+
+          &:before,
+          &:after {
+            background-color: #e0e0e0 !important;
+          }
+        }
+      }
+    }
+  }
+
+  /* Page content */
+  .page__content {
+    background-color: #1a1a1a;
+  }
+
+  /* Archive items */
+  .archive__item {
+    background-color: #1a1a1a;
+
+    .archive__item-title a {
+      color: #e0e0e0;
+      
+      &:hover {
+        color: #bb86fc;
+      }
+    }
+
+    .archive__item-excerpt {
+      color: #b0b0b0;
+    }
+  }
+
+  /* Sidebar */
+  .sidebar {
+    background-color: #1a1a1a;
+
+    .author__avatar img {
+      border: 2px solid #444;
+    }
+
+    .author__name {
+      color: #e0e0e0;
+    }
+
+    .author__bio {
+      color: #b0b0b0;
+    }
+
+    .author__urls a {
+      color: #bb86fc;
+      
+      &:hover {
+        color: #cf6679;
+      }
+    }
+  }
+
+  /* Footer */
+  .page__footer {
+    background-color: #2d2d2d !important;
+    border-top: 1px solid #444;
+    color: #e0e0e0;
+
+    a {
+      color: #bb86fc;
+      
+      &:hover {
+        color: #cf6679;
+      }
+    }
+  }
+
+  /* Tables */
+  table {
+    background-color: #2d2d2d;
+    border: 1px solid #444;
+
+    th,
+    td {
+      border: 1px solid #444;
+      color: #e0e0e0;
+    }
+
+    th {
+      background-color: #404040;
+    }
+  }
+
+  /* Code blocks */
+  pre,
+  code {
+    background-color: #2d2d2d;
+    color: #e0e0e0;
+    border: 1px solid #444;
+  }
+
+  /* Buttons */
+  .btn {
+    background-color: #404040;
+    color: #e0e0e0;
+    border: 1px solid #666;
+
+    &:hover {
+      background-color: #555;
+      color: #bb86fc;
+    }
+  }
+
+  /* Forms */
+  input,
+  textarea,
+  select {
+    background-color: #2d2d2d;
+    color: #e0e0e0;
+    border: 1px solid #444;
+
+    &:focus {
+      border-color: #bb86fc;
+    }
+  }
+
+  /* Pagination */
+  .pagination {
+    a {
+      background-color: #2d2d2d;
+      color: #e0e0e0;
+      border: 1px solid #444;
+      
+      &:hover {
+        background-color: #404040;
+        color: #bb86fc;
+      }
+    }
+
+    .current {
+      background-color: #bb86fc;
+      color: #1a1a1a;
+    }
+  }
+
+  /* Search */
+  .search-content {
+    background-color: #2d2d2d;
+    
+    .search-input {
+      background-color: #404040;
+      color: #e0e0e0;
+      border: 1px solid #666;
+    }
+  }
+
+  /* Notices */
+  .notice {
+    background-color: #2d2d2d;
+    border-left: 4px solid #bb86fc;
+    color: #e0e0e0;
+  }
+}
