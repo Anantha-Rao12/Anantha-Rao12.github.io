@@ -6,13 +6,13 @@ document.addEventListener("DOMContentLoaded", function() {
   function setTheme(theme) {
     if (theme === "dark") {
       document.body.classList.add("dark-mode");
-      darkIcon.style.display = "inline-block";
-      lightIcon.style.display = "none";
+      darkIcon.style.display = "none";
+      lightIcon.style.display = "inline-block";
       localStorage.setItem("theme", "dark");
     } else {
       document.body.classList.remove("dark-mode");
-      darkIcon.style.display = "none";
-      lightIcon.style.display = "inline-block";
+      darkIcon.style.display = "inline-block";
+      lightIcon.style.display = "none";
       localStorage.setItem("theme", "light");
     }
   }

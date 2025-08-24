@@ -61,6 +61,24 @@ Featured profile on Anantha's journey from India's tech hub to UMD's "Capital of
 </div>
 </div>
 
+<!-- Third News Article -->
+<div style="background-color: #f8f9fa; border-radius: 8px; padding: 20px; margin: 20px 0; display: flex; align-items: center; gap: 20px;">
+<div style="flex-shrink: 0;">
+<img src="https://static.toiimg.com/thumb/msid-79438920,width-1280,height-720,resizemode-4/79438920.jpg" alt="IISER Pune iGEM Team" style="width: 120px; height: 120px; object-fit: cover; border-radius: 8px;">
+</div>
+<div style="flex-grow: 1;">
+<h3 style="margin-top: 0; color: #007bff;">
+<a href="https://timesofindia.indiatimes.com/education/news/iiser-pune-team-wins-gold-at-igem-2020-synthetic-biology-competition/articleshow/79438920.cms" target="_blank" style="text-decoration: none;">IISER Pune Team Wins Gold at iGEM 2020</a>
+</h3>
+<p style="margin: 5px 0; font-size: 14px; color: #6c757d;">
+<strong>Times of India</strong> • November 27, 2020 • Education News
+</p>
+<p style="margin: 10px 0; line-height: 1.5;">
+A team of students from IISER Pune won the gold medal and the Jury's best project award at the iGEM 2020 competition for their project on synthetic biology. Their work focused on developing a novel method for detecting and combating Malaria and a complete AI-based disease diagnostics tool.
+</p>
+</div>
+</div>
+
 </div>
 
 ## Research Interests
