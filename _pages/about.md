@@ -38,7 +38,7 @@ I am a Ph.D. candidate at <a href="https://umdphysics.umd.edu" target="_blank">U
 <strong>Nathaniel C. Bishop</strong> • April 30, 2025 • Physics Magazine (APS)
 </p>
 <p style="margin: 10px 0; line-height: 1.5;">
-Machine learning automates the control of a large and highly connected array of semiconductor quantum dots. Features Anantha's MAViS research that demonstrates software for automating standard parts of experiments on quantum-dot qubits—a step toward fully automated calibration of quantum processors.
+Machine learning automates the control of a large and highly connected array of semiconductor quantum dots. Features research that demonstrates software for automating standard parts of experiments on quantum-dot qubits—a step toward fully automated calibration of quantum processors.
 </p>
 </div>
 </div>
@@ -92,8 +92,7 @@ My research lies at the intersection of **Quantum Information** and **Condensed 
 - **Machine Learning for Quantum Systems**: Both quantum-enhanced classical ML and classical ML for quantum problems.
 - **Tensor Networks**: Advanced numerical methods for quantum many-body systems.
 
-### Methodological Approach
-I am a theoretician, and I like to use and develop **analytical**, and **numerical** approaches to solve complex puzzles. My work spans theoretical development, computational implementation, and experimental collaboration. 
+As a theorist, I like to use and develop **analytical**, and **numerical** approaches to solve complex puzzles. My work spans formalism development, computational implementation, and experimental collaboration. 
 
 I share my interests, cool thoughts, and insights on various topics on this website. A lot of things that I gain from my research do not end up being part of the final research papers I write, but I would be very happy to talk to and learn from the research audience. I strongly believe in science being a collective and collaborative effort, and I look forward to discussing ideas.
 
