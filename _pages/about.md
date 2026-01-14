@@ -14,6 +14,8 @@ I am a Ph.D. candidate at <a href="https://umdphysics.umd.edu" target="_blank">U
 <div style="background-color: #f8f9fa; border-left: 4px solid #007bff; padding: 15px; margin: 20px 0;">
 <h4 style="margin-top: 0; color: #007bff;">🎉 Latest News</h4>
 <ul style="margin-bottom: 0;">
+<li><strong>Jan '26:</strong> Preprint on Wigner-Friedel crossover in silicon interconnects is out on <a href="https://arxiv.org/abs/2601.05306" target="_blank">arXiv</a>!</li>
+<li><strong>Dec '25:</strong> Preprint on Autonomous stabilization and noise spectroscopy of QD arrays is out on <a href="https://arxiv.org/abs/2512.24894" target="_blank">arXiv</a>!</li>
 <li><strong>Oct '25:</strong> Accepted talk at Silicon Quantum Electronics (SiQEW) 2025 on spin shuttling.</li>
 <li><strong>Feb '25:</strong> MAViS accepted at Physical Review X! (<a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021034" target="_blank">Read it! |</a><a href="https://drive.google.com/file/d/1lBeetKCOfpPChbX4Ek0EXn9hq462D1DS/view?usp=drive_link" target="_blank"> listen to it!</a>)</li>
 <li><strong>Aug '24:</strong> Accepted talk at Silicon Quantum Electronics (SiQEW) 2024 on virtualization.</li>
