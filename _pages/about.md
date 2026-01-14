@@ -98,7 +98,7 @@ As a theorist, I like to use and develop **analytical**, and **numerical** appro
 
 I share my interests, cool thoughts, and insights on various topics on this website. A lot of things that I gain from my research do not end up being part of the final research papers I write, but I would be very happy to talk to and learn from the research audience. I strongly believe in science being a collective and collaborative effort, and I look forward to discussing ideas.
 
-If you are interested in my CV (updated July 2025) <a href="https://raw.githubusercontent.com/Anantha-Rao12/Anantha-Rao12.github.io/master/files/AnanthaRao_CV.pdf" target="_blank">here</a> it is!
+If you are interested in my CV (updated Jan 2026) <a href="https://raw.githubusercontent.com/Anantha-Rao12/Anantha-Rao12.github.io/master/files/AnanthaRao_CV.pdf" target="_blank">here</a> it is!
 
 ## Research Highlights
 - **MAViS**: Accepted at Physical Review X (<a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021034" target="_blank">PhysRevX.15.021034</a>), (<a href="https://drive.google.com/file/d/1lBeetKCOfpPChbX4Ek0EXn9hq462D1DS/view?usp=drive_link" target="_blank">Audio podcast</a>)
